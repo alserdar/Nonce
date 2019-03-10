@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383688768791",
+    "firebase_url": "https://nonce-39313.firebaseio.com",
+    "project_id": "nonce-39313",
+    "storage_bucket": "nonce-39313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383688768791:android:5ea1b379cf48cdd5",
+        "android_client_info": {
+          "package_name": "twitter.nonce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383688768791-fmt7ngcu773dp0fh7vnfcg8nker27qod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "twitter.nonce_app",
+            "certificate_hash": "86e0180520e7154821600e536c3dae6767b9828b"
+          }
+        },
+        {
+          "client_id": "383688768791-2ba302imn62p2elp85r4c1t7j6fk73ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLfyktXeW26UswWYjLEdvbm031ohN-bI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383688768791-2ba302imn62p2elp85r4c1t7j6fk73ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

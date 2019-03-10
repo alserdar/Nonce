@@ -1,0 +1,61 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.22.1'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+apply plugin: 'com.google.gms.google-services'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'nonceAlias'
+            keyPassword '6846685010010'
+            storeFile file('C:/Users/ALAZIZY/Desktop/NonceAppKey/NonceKey.jks')
+            storePassword '6846685010010'
+        }
+    }
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+    defaultConfig {
+        applicationId "twitter.nonce_app"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 8
+        versionName "1.7"
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile('com.twitter.sdk.android:twitter:2.3.1@aar') {
+        transitive = true;
+    }
+    compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'com.android.support:design:24.2.0'
+    compile 'com.android.support:support-v4:24.2.0'
+    compile 'org.twitter4j:twitter4j-core:4.0.4'
+    compile 'com.facebook.android:facebook-android-sdk:4.11.0'
+    compile 'com.firebase:firebase-client-android:2.3.1'
+}

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Crime">
+        <item>The Departed (2006)</item>
+        <item>American History X (1998)</item>
+        <item>Se7en (1995)</item>
+        <item>The Usual Suspects (1995)</item>
+        <item>The Silence of the Lambs (1991)</item>
+        <item>Léon: The Professional (1994)</item>
+        <item>City of God (2002)</item>
+        <item>Goodfellas (1990)</item>
+        <item>12 Angry Men (1957)</item>
+        <item>Pulp Fiction (1994)</item>
+        <item>The Godfather: Part II (1974)</item>
+        <item>The Godfather (1972)</item>
+        <item>A Clockwork Orange (1971)</item>
+        <item>Witness for the Prosecution (1957)</item>
+        <item> Reservoir Dogs (1992)</item>
+        <item> Vishwaroopam (2013)</item>
+        <item>Hera Pheri (2000)</item>
+        <item>Gone Girl (2014)</item>
+        <item>Dial M for Murder (1954)</item>
+        <item>Lock, Stock and Two Smoking Barrels (1998)</item>
+        <item>Rashomon (1950)	</item>
+        <item> The 400 Blows (1959)</item>
+        <item>Strangers on a Train (1951)</item>
+        <item>The Night of the Hunter (1955)</item>
+        <item>La Haine (1995)</item>
+        <item>Butch Cassidy and the Sundance Kid (1969)</item>
+        <item>Dogville (2003)	</item>
+        <item>Sin City (2005)</item>
+        <item>Baby (I) (2015)</item>
+        <item>Kind Hearts and Coronets (1949)</item>
+        <item>Le Samouraï (1967)</item>
+        <item> Black Cat, White Cat (1998)	</item>
+        <item>Anatomy of a Murder (1959)</item>
+        <item>Arsenic and Old Lace (1944)</item>
+        <item>The Blues Brothers (1980)</item>
+        <item>The Hateful Eight (2015)</item>
+        <item>Hell or High Water (II) (2016)</item>
+        <item> Special 26 (2013)</item>
+        <item>The Killing (1956)</item>
+        <item>Rope (1948)</item>
+        <item>The Big Sleep (1946)</item>
+        <item>Breathless (1960)	</item>
+        <item>Dog Day Afternoon (1975)</item>
+        <item>Key Largo (1948)</item>
+        <item>Hard Boiled (1992)	</item>
+        <item>Once Were Warriors (1994)</item>
+        <item>A Prophet (2009)</item>
+        <item>Miller"s Crossing (1990)</item>
+        <item>Bonnie and Clyde (1967)	</item>
+        <item>Carlito"s Way (1993)</item>
+        <item>The Untouchables (1987)	</item>
+        <item>Crash (I) (2004)</item>
+        <item>A Bronx Tale (1993)</item>
+        <item>Lucky Number Slevin (2006)</item>
+        <item>The Best Offer (2013)</item>
+        <item>Misery (1990)	</item>
+        <item>Ocean"s Eleven (2001)</item>
+        <item>American Gangster (2007)</item>
+        <item>Drive (I) (2011)</item>
+        <item>Boyz n the Hood (1991)</item>
+        <item>The Girl with the Dragon Tattoo (2011)	</item>
+        <item>Lilya 4-Ever (2002)</item>
+        <item>Nine Queens (2000)</item>
+        <item>The Vanishing (1988)</item>
+        <item>The Day of the Jackal (1973)</item>
+        <item>Mother (2009)	</item>
+        <item>Run Lola Run (1998)</item>
+        <item>Serpico (1973)	</item>
+        <item>The King of Comedy (1982)	</item>
+        <item>The French Connection (1971)	</item>
+        <item>Donnie Brasco (1997)</item>
+        <item> Mississippi Burning (1988</item>
+        <item>Badlands (1973)</item>
+        <item>Road to Perdition (2002)</item>
+        <item>End of Watch (2012)</item>
+        <item>Eastern Promises (2007)</item>
+        <item>Gone Baby Gone (2007)</item>
+        <item>Training Day (2001)</item>
+        <item> Zodiac (2007)</item>
+        <item>Once Upon a Time in Anatolia (2011)</item>
+        <item>Down by Law (1986)	</item>
+        <item>American Psycho (2000</item>
+        <item>The Accountant (2016)</item>
+        <item>Sympathy for Mr. Vengeance (2002)</item>
+        <item>Dead Man"s Shoes (2004)</item>
+        <item>After Hours (1985)</item>
+        <item>Blow-Up (1966)	</item>
+        <item>Blood Simple. (1984)</item>
+        <item>Paprika (2006)	</item>
+        <item>This Is England (2006)</item>
+        <item>Traffic (2000)</item>
+        <item>Sleepers (1996)</item>
+        <item>Collateral (2004)</item>
+        <item>Lord of War (2005)</item>
+        <item>Lolita (1962)</item>
+        <item>West Side Story (1961)</item>
+        <item>The Godfather: Part III (1990)</item>
+        <item>Sherlock Holmes (2009)	</item>
+        <item> The Town (2010)</item>
+        <item>Funny Games (1997)</item>
+        <item>Following (1998)</item>
+        <item>Who Am I (2014)	</item>
+        <item>The Life of David Gale (2003)</item>
+        <item>The Man Who Wasn"t There (2001)</item>
+        <item>The Naked Gun: From the Files of Police Squad! (1988)</item>
+        <item>Falling Down (1993)</item>
+        <item>The Skin I Live In (2011)</item>
+        <item>Kiss Kiss Bang Bang (2005)	</item>
+        <item>Gangs of New York (2002)</item>
+        <item> Mesrine Part 1: Killer Instinct (2008)</item>
+        <item> Man Bites Dog (1992)</item>
+        <item>Tell No One (2006)	</item>
+        <item>Dead Man Walking (1995)</item>
+        <item>The Cook, the Thief, His Wife and Her Lover (1989)</item>
+        <item>Lady Vengeance (2005)</item>
+        <item>Volver (I) (2006)</item>
+        <item>Headhunters (2011)</item>
+        <item> We Need to Talk About Kevin (2011)	</item>
+        <item>A History of Violence (2005)</item>
+        <item>Perfume: The Story of a Murderer (2006)</item>
+        <item>Jackie Brown (1997)</item>
+        <item>Green Street Hooligans (2005)</item>
+        <item>My Cousin Vinny (1992)</item>
+        <item>Freedom Writers (2007)</item>
+        <item>Menace II Society (1993)</item>
+        <item> Undisputed 3: Redemption (2010)</item>
+        <item>Straw Dogs (1971)</item>
+        <item>Buffalo "66 (1998)</item>
+        <item>Marathon Man (1976)</item>
+        <item>A Perfect World (1993)</item>
+        <item> A Simple Plan (1998)</item>
+        <item>Felon (2008)</item>
+        <item>In the Bedroom (2001)</item>
+        <item>Maria Full of Grace (2004)</item>
+        <item>The Edukators (2004)</item>
+        <item>Looper (2012)</item>
+        <item>Irreversible (2002)</item>
+        <item> A Time to Kill (1996)</item>
+        <item>Layer Cake (2004)</item>
+        <item> Grosse Pointe Blank (1997)</item>
+        <item>Law Abiding Citizen (2009)</item>
+        <item>The Judge (2014)</item>
+        <item> Mean Streets (1973)</item>
+        <item>Mr. Brooks (2007)</item>
+        <item>Wall Street (1987)</item>
+        <item>Rounders (1998)</item>
+        <item>Starred Up (2013)</item>
+        <item>Dirty Pretty Things (2002)</item>
+        <item>Witness (1985)</item>
+        <item>Running Scared (2006)</item>
+        <item>Bound (1996)</item>
+        <item>Heavenly Creatures (1994)</item>
+        <item>Murder by Death (1976)</item>
+        <item>Pusher (1996)</item>
+        <item>Notes on a Scandal (2006)</item>
+        <item>An American Crime (2007)</item>
+        <item>Hustle and Flow (2005)	</item>
+        <item>Dolores Claiborne (1995)</item>
+        <item>Shallow Grave (1994)</item>
+        <item>The Proposition (2005)</item>
+        <item>Assault on Precinct 13 (1976)</item>
+        <item>Drugstore Cowboy (1989)</item>
+        <item>American Hustle (2013)</item>
+        <item>The Talented Mr. Ripley (1999)</item>
+        <item>Ronin (1998)</item>
+        <item>RocknRolla (2008)</item>
+        <item>Michael Clayton (2007)</item>
+        <item>Cape Fear (1991)</item>
+        <item> Natural Born Killers (1994)</item>
+        <item>Monster (2003)</item>
+        <item>Dope (2015)</item>
+        <item>Lawless (2012)</item>
+        <item>The Place Beyond the Pines (2012)</item>
+        <item>Clue (1985)</item>
+        <item>Sexy Beast (2000)</item>
+        <item>Four Lions (2010)</item>
+        <item> The Bank Job (2008)</item>
+        <item>Animal Kingdom (2010)</item>
+        <item>Beverly Hills Cop (1984)</item>
+        <item>Matchstick Men (2003)</item>
+        <item>The Basketball Diaries (1995)	</item>
+        <item>The Lincoln Lawyer (2011)</item>
+        <item> Enemy of the State (1998)</item>
+        <item>Fast Five (2011)</item>
+        <item>John Wick (2014)</item>
+        <item>War Dogs (2016)</item>
+        <item>Pursuit (2012)</item>
+        <item>Tsotsi (2005)</item>
+        <item>Hard Eight (1996)</item>
+        <item>Mean Creek (2004)</item>
+        <item>The Girl Who Kicked the Hornet"s Nest (2009)</item>
+        <item>Before the Devil Knows You"re Dead (2007)</item>
+        <item>Frailty (2001)	</item>
+        <item>The Negotiator (1998)</item>
+        <item>Dirty Rotten Scoundrels (1988)</item>
+        <item>Seven Psychopaths (2012)</item>
+        <item>Red Dragon (2002)</item>
+        <item>Chicago (2002)</item>
+        <item>Fracture (2007)</item>
+        <item>Speed (1994)	</item>
+        <item>Point Break (1991)</item>
+        <item>The Equalizer (2014)</item>
+        <item>The Outsiders (1983)</item>
+        <item>Furious 7 (2015)</item>
+        <item>Harry Brown (2009)</item>
+        <item>Micmacs (2009)</item>
+        <item>District B13 (2004)</item>
+        <item> Elephant (2003)</item>
+        <item>Arlington Road (1999)</item>
+        <item>In the Valley of Elah (2007)</item>
+        <item>God Bless America (2011)</item>
+        <item>The Whistleblower (2010)</item>
+        <item>The Pink Panther (1963)</item>
+        <item>Wild at Heart (1990)</item>
+        <item>JCVD (2008)</item>
+        <item>Narc (2002)</item>
+        <item>11:14 (2003)</item>
+        <item>Don (I) (2006)</item>
+        <item>Ong-Bak: The Thai Warrior (2003)</item>
+        <item> Chopper (2000)</item>
+    </string-array>
+
+</resources>

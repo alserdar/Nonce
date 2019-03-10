@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sci_Fi">
+        <item>WALL·E (2008)</item>
+        <item>Star Wars: Episode VI - Return of the Jedi (1983)</item>
+        <item>Aliens (1986)</item>
+        <item>Arrival (II) (2016)</item>
+        <item>Terminator 2: Judgment Day (1991)</item>
+        <item>The Prestige (2006)</item>
+        <item>Alien (1979)</item>
+        <item>Interstellar (2014)</item>
+        <item>The Matrix (1999)</item>
+        <item>Star Wars: Episode IV - A New Hope (1977)</item>
+        <item>Star Wars: Episode V - The Empire Strikes Back (1980)</item>
+        <item>Inception (2010)</item>
+        <item>The Truman Show (1998)</item>
+        <item>Jurassic Park (1993)</item>
+        <item>Donnie Darko (2001)</item>
+        <item>The Avengers (2012)</item>
+        <item>Guardians of the Galaxy (2014)</item>
+        <item>Deadpool (2016)</item>
+        <item>PK (2014)</item>
+        <item>The Thing (1982)</item>
+        <item>Blade Runner (1982)</item>
+        <item>Star Wars: The Force Awakens (2015)</item>
+        <item>Metropolis (1927)</item>
+        <item>District 9 (2009)</item>
+        <item>Twelve Monkeys (1995)</item>
+        <item>The Terminator (1984)</item>
+        <item>X-Men: Days of Future Past (2014)</item>
+        <item>Serenity (2005)	</item>
+        <item>Star Trek (2009)</item>
+        <item>Ghost in the Shell (1995)</item>
+        <item>The Martian (2015)</item>
+        <item>Captain America: Civil War (2016)</item>
+        <item>Nausicaä of the Valley of the Wind (1984)</item>
+        <item>Stalker (1979)</item>
+        <item>Akira (1988)</item>
+        <item>Mr. Nobody (2009)</item>
+        <item>E.T. the Extra-Terrestrial (1982)</item>
+        <item>Children of Men (2006)</item>
+        <item>Iron Man (2008)</item>
+        <item> Edge of Tomorrow (2014)</item>
+        <item>Avatar (2009)</item>
+        <item>Doctor Strange (2016)</item>
+        <item> King Kong (1933)</item>
+        <item>Planet of the Apes (1968)</item>
+        <item>The Man from Earth (2007)</item>
+        <item>Brazil (1985)</item>
+        <item>Gattaca (1997)</item>
+        <item> Back to the Future Part II (1989)</item>
+        <item>Gravity (2013)</item>
+        <item>Predator (1987)	</item>
+        <item>X-Men: First Class (2011)</item>
+        <item> Wreck-It Ralph (2012)</item>
+        <item>Captain America: The Winter Soldier (2014)</item>
+        <item>About Time (I) (2013)</item>
+        <item>Cowboy Bebop: The Movie (2001)</item>
+        <item>Batman: Mask of the Phantasm (1993)	</item>
+        <item>The Bride of Frankenstein (1935)</item>
+        <item>Moon (2009)</item>
+        <item>The City of Lost Children (1995)</item>
+        <item>Star Trek II: The Wrath of Khan (1982)</item>
+        <item>Battle Royale (2000)</item>
+        <item>Close Encounters of the Third Kind (1977)</item>
+        <item> The Butterfly Effect (2004)</item>
+        <item>The Fifth Element (1997)</item>
+        <item> Minority Report (2002)</item>
+        <item>The Day the Earth Stood Still (1951)</item>
+        <item>The Time Machine (1960)</item>
+        <item>Star Trek: First Contact (1996)</item>
+        <item>Who Am I (2014)</item>
+        <item>Mad Max 2: The Road Warrior (1981)</item>
+        <item>Rise of the Planet of the Apes (2011)</item>
+        <item>The Abyss (1989)</item>
+        <item> Dawn of the Planet of the Apes (2014)</item>
+        <item> The Hunger Games: Catching Fire (2013)</item>
+        <item> 28 Days Later... (2002)</item>
+        <item>Star Wars: Episode III - Revenge of the Sith (2005)</item>
+        <item>Forbidden Planet (1956)</item>
+        <item>Ant-Man (2015)</item>
+        <item>2046 (2004)</item>
+        <item>Pi (1998)</item>
+        <item>X-Men 2 (2003)</item>
+        <item>Equilibrium (2002)</item>
+        <item>RoboCop (1987)</item>
+        <item>Total Recall (1990)</item>
+        <item>Source Code (2011)</item>
+        <item>Cloud Atlas (2012)</item>
+        <item>Avengers: Age of Ultron (2015)</item>
+        <item>Galaxy Quest (1999)</item>
+        <item>The Hunger Games (2012)</item>
+        <item>Final Fantasy VII: Advent Children (2005)</item>
+        <item>Frequency (2000)</item>
+        <item>Back to the Future Part III (1990)</item>
+        <item>Limitless (I) (2011)</item>
+        <item>Contact (1997)</item>
+        <item>Predestination (I) (2014)</item>
+        <item>X-Men (2000)</item>
+        <item>The Transformers: The Movie (1986)	</item>
+        <item>Ringu (1998)	</item>
+        <item>Fahrenheit 451 (1966)</item>
+        <item>Star Trek IV: The Voyage Home (1986)</item>
+        <item>They Live (1988)</item>
+        <item>Face/Off (1997)</item>
+        <item>The Fountain (2006)</item>
+        <item>Sunshine (2007)</item>
+        <item>I Origins (2014)</item>
+        <item> Escape from New York (1981)</item>
+        <item>Never Let Me Go (2010)</item>
+        <item>The Mist (2007)</item>
+        <item> Unbreakable (2000)</item>
+        <item>Coherence (2013)</item>
+        <item> Lilo and Stitch (2002)</item>
+        <item> 1984 (1984)</item>
+        <item> Starship Troopers (1997)</item>
+        <item>The Matrix Reloaded (2003)</item>
+        <item>I Am Legend (2007)</item>
+        <item> Iron Man 3 (2013)</item>
+        <item>X-Men: Apocalypse (2016)</item>
+        <item>Star Trek Beyond (2016)</item>
+        <item>Sleeper (1973)</item>
+        <item>Thor: The Dark World (2013)</item>
+        <item>The Lobster (2015)</item>
+        <item> Man of Steel (2013)</item>
+        <item> Westworld (1973)</item>
+        <item>The Andromeda Strain (1971)</item>
+        <item>The Great Mouse Detective (1986)</item>
+        <item>The War of the Worlds (1953)</item>
+        <item> The Dead Zone (1983)</item>
+        <item> Star Trek VI: The Undiscovered Country (1991)</item>
+        <item>Strange Days (1995)</item>
+        <item>Perfect Sense (2011)</item>
+        <item> The Time Traveler"s Wife (2009)</item>
+        <item>Pitch Black (2000)</item>
+        <item> The Jacket (2005)</item>
+        <item> Real Steel (2011)</item>
+        <item>Treasure Planet (2002)</item>
+        <item>The Adjustment Bureau (2011)</item>
+        <item>Chronicle (2012)</item>
+        <item>Super 8 (2011)</item>
+        <item>Stargate (1994)</item>
+        <item> Spaceballs (1987)</item>
+        <item> Dredd (2012)</item>
+        <item>WarGames (1983)</item>
+        <item> Cloverfield (2008)</item>
+        <item>28 Weeks Later (2007)</item>
+        <item> Snowpiercer (2013)</item>
+        <item> Oblivion (I) (2013)</item>
+        <item>Thor (2011)</item>
+        <item> Pacific Rim (2013)</item>
+        <item> World War Z (2013)</item>
+        <item>Frequently Asked Questions About Time Travel (2009)</item>
+        <item>Robot and Frank (2012)</item>
+        <item>Soylent Green (1973)</item>
+        <item>A Scanner Darkly (2006)</item>
+        <item>The X Files (1998)</item>
+        <item>Time Bandits (1981)</item>
+        <item>The Thirteenth Floor (1999)</item>
+        <item>The Host (2006)</item>
+        <item> Starman (1984)</item>
+        <item> Another Earth (2011)</item>
+        <item> Cloudy with a Chance of Meatballs (2009)</item>
+        <item> Deja Vu (2006)</item>
+        <item>Paul (2011)</item>
+        <item>The World"s End (2013)</item>
+        <item> Iron Man 2 (2010)</item>
+        <item>Mad Max (1979)</item>
+        <item>Hellboy II: The Golden Army (2008)</item>
+        <item> Hardcore Henry (2015)</item>
+        <item>Batman v Superman: Dawn of Justice (2016)</item>
+        <item> Enemy Mine (1985)</item>
+        <item> Repo Man (1984)</item>
+        <item> Mr. Peabody and Sherman (2014)</item>
+        <item> Flight of the Navigator (1986)	</item>
+        <item> Little Shop of Horrors (1986)</item>
+        <item>Bill and Ted"s Excellent Adventure (1989)</item>
+        <item>The Island (2005)</item>
+        <item>Vanilla Sky (2001)	</item>
+        <item>Chappie (2015)</item>
+        <item>Captain America: The First Avenger (2011)</item>
+        <item>Independence Day (1996)</item>
+        <item> Bicentennial Man (1999)</item>
+        <item> eXistenZ (1999)</item>
+        <item>Logan"s Run (1976)</item>
+        <item>TRON (1982)</item>
+        <item>Pandorum (2009)</item>
+        <item>Men in Black 3 (2012)</item>
+        <item>The Hitchhiker"s Guide to the Galaxy (2005)</item>
+        <item>X-Men: The Last Stand (2006)</item>
+        <item>The Incredible Hulk (2008)</item>
+        <item> Hellboy (2004)</item>
+        <item>TRON: Legacy (2010)</item>
+        <item>Underworld: Evolution (2006)</item>
+        <item>In Time (2011)</item>
+        <item>Star Wars: Episode II - Attack of the Clones (2002)</item>
+        <item>The Hunger Games: Mockingjay - Part 1 (2014)</item>
+        <item>X-Men Origins: Wolverine (2009)</item>
+        <item>Midnight Special (2016)</item>
+        <item>The Amazing Spider-Man 2 (2014)</item>
+        <item>Cypher (2002)</item>
+        <item>Who Am I? (1998)</item>
+        <item>Fido (2006)</item>
+        <item> Scanners (1981)</item>
+        <item>THX 1138 (1971)</item>
+        <item>Superman II (1980)</item>
+        <item>Seeking a Friend for the End of the World (2012)</item>
+        <item>Teenage Mutant Ninja Turtles (1990)</item>
+        <item>Signs (2002)</item>
+        <item>The Chronicles of Riddick (2004)</item>
+        <item>The Matrix Revolutions (2003)</item>
+        <item>The Guest (I) (2014)</item>
+        <item>Ender"s Game (2013)</item>
+        <item>Escape Plan (2013)	</item>
+        <item>The Wolverine (2013)</item>
+        <item>Demolition Man (1993)</item>
+        <item>The Running Man (1987)</item>
+        <item>Weird Science (1985)</item>
+        <item>Idiocracy (2006)</item>
+        <item>Elysium (I) (2013)	</item>
+        <item>John Carter (2012)</item>
+        <item>Armageddon (1998)</item>
+        <item>Underworld: Rise of the Lycans (2009)</item>
+        <item>Dune (1984)</item>
+        <item>The Hunger Games: Mockingjay - Part 2 (2015)</item>
+        <item>Innerspace (1987)</item>
+        <item>The Last Starfighter (1984)</item>
+        <item>Cocoon (1985)</item>
+        <item>Tomorrowland (2015)</item>
+        <item>Terminator Genisys (2015)</item>
+        <item>Suicide Squad (2016)</item>
+        <item>Blindness (2008)</item>
+        <item>Star Trek: Generations (1994)</item>
+        <item>Star Trek III: The Search for Spock (1984)</item>
+        <item>Flatliners (1990)</item>
+        <item>Titan A.E. (2000)</item>
+        <item>Attack the Block (2011)</item>
+        <item>Short Circuit (1986)</item>
+        <item>The Manchurian Candidate (2004)</item>
+        <item>Blast from the Past (1999)</item>
+        <item>Terminator Salvation (2009)</item>
+        <item>Self/less (2015)</item>
+        <item> War of the Worlds (2005)</item>
+        <item> Star Wars: Episode I - The Phantom Menace (1999)</item>
+        <item> The Giver (2014)</item>
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="private Info"/>
+
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+    <EditTextPreference
+        android:inputType="textCapWords|textAutoComplete"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:key="bbm_pin"
+        android:singleLine="true"
+        android:title="@string/YourBBMCode"
+        android:summary="" />
+    <EditTextPreference
+        android:capitalize="words"
+        android:inputType="textAutoComplete|textCapCharacters"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/yourWhatsAppNumber"
+        android:key="whatsapp_number"
+        android:summary="" />
+
+
+
+    <EditTextPreference
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:key="user_mail"
+        android:singleLine="true"
+        android:title="@string/email"
+        android:summary=""/>
+
+</PreferenceScreen>

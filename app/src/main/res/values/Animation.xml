@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Animation">
+        <item>Song of the Sea (2014)</item>
+        <item>My Neighbor Totoro (1988)</item>
+        <item>Howl"s Moving Castle (2004)</item>
+        <item>How to Train Your Dragon (2010)</item>
+        <item>Finding Nemo (2003)</item>
+        <item>Inside Out (I) (2015)</item>
+        <item> Up (2009)</item>
+        <item>Toy Story 3 (2010)</item>
+        <item>Toy Story (1995)</item>
+        <item>WALL·E (2008)</item>
+        <item>Princess Mononoke (1997)</item>
+        <item>The Lion King (1994)</item>
+        <item>Shrek (2001)</item>
+        <item>Big Hero 6 (2014)</item>
+        <item>Toy Story 2 (1999)</item>
+        <item>Whisper of the Heart (1995)</item>
+        <item>Aladdin (1992)</item>
+        <item> The Iron Giant (1999)</item>
+        <item>Ratatouille (2007)</item>
+        <item>The Nightmare Before Christmas (1993)</item>
+        <item>The Incredibles (2004)</item>
+        <item>Beauty and the Beast (1991)</item>
+        <item>Castle in the Sky (1986)</item>
+        <item>Monsters, Inc. (2001)</item>
+        <item>Kubo and the Two Strings (2016)</item>
+        <item>Zootopia (2016)</item>
+        <item>Mary and Max (2009)</item>
+        <item>The Triplets of Belleville (2003)</item>
+        <item>Fantasia (1940)</item>
+        <item>South Park: Bigger, Longer and Uncut (1999)</item>
+        <item>Waking Life (2001)</item>
+        <item>5 Centimeters Per Second (2007)</item>
+        <item>Wreck-It Ralph (2012)</item>
+        <item>The Little Prince (I) (2015)</item>
+        <item>The Lego Movie (2014)</item>
+        <item>Perfect Blue (1997)</item>
+        <item>Kiki"s Delivery Service (1989)</item>
+        <item>How to Train Your Dragon 2 (2014)</item>
+        <item>Alice in Wonderland (1951)</item>
+        <item>The Illusionist (2010)</item>
+        <item>The Curse of the Were-Rabbit (2005)</item>
+        <item>Mulan (1998)</item>
+        <item>Pinocchio (1940)</item>
+        <item>Despicable Me 2 (2013)</item>
+        <item>The Secret of NIMH (1982)</item>
+        <item>Robin Hood (1973)</item>
+        <item>Snow White and the Seven Dwarfs (1937)</item>
+        <item>Despicable Me (2010)</item>
+        <item>Ice Age (2002)</item>
+        <item>Ghost in the Shell 2: Innocence (I) (2004)</item>
+        <item>The Jungle Book (1967)</item>
+        <item>Kung Fu Panda (2008)</item>
+        <item>The Little Mermaid (1989)</item>
+        <item> Frozen (I) (2013)</item>
+        <item>Finding Dory (2016)</item>
+        <item>Watership Down (1978)</item>
+        <item>The Secret World of Arrietty (2010)</item>
+        <item>Ponyo (2008)  </item>
+        <item>Coraline (2009)</item>
+        <item>Dumbo (1941)</item>
+        <item>The Fox and the Hound (1981)</item>
+        <item>The Land Before Time (1988)</item>
+        <item>Cinderella (1950)</item>
+        <item>Peter Pan (1953)</item>
+        <item>Monsters University (2013)</item>
+        <item>Kung Fu Panda 2 (2011)</item>
+        <item>Megamind (2010)</item>
+        <item>Anomalisa (2015)</item>
+        <item>The Emperor"s New Groove (2000)</item>
+        <item>The Croods (2013)</item>
+        <item>The Book of Life (2014)</item>
+        <item>Rise of the Guardians (2012)</item>
+        <item>Bambi (1942)</item>
+        <item>Shaun the Sheep Movie (2015)</item>
+        <item> The Simpsons Movie (2007)</item>
+        <item>Balto (1995)</item>
+        <item>Treasure Planet (2002)</item>
+        <item>Anastasia (1997)</item>
+        <item>Hotel Transylvania (2012)</item>
+        <item>Arthur Christmas (2011)</item>
+        <item>The Peanuts Movie (2015)</item>
+        <item> Enchanted (2007)</item>
+        <item>The AristoCats (1970)</item>
+        <item>Fantasia 2000 (1999)</item>
+        <item>The Sword in the Stone (1963)</item>
+        <item>101 Dalmatians (1961)</item>
+        <item>Rango (2011)</item>
+        <item>Shrek 2 (2004)</item>
+        <item>A Bug"s Life (1998)</item>
+        <item>Hercules (1997)</item>
+        <item>Brave (2012)</item>
+        <item> Tarzan (1999)</item>
+        <item>Lilo and Stitch (2002)</item>
+        <item>Kung Fu Panda 3 (2016)</item>
+        <item> Cars (2006)</item>
+        <item>The Transformers: The Movie (1986)</item>
+        <item>An American Tail (1986)</item>
+        <item>Madagascar 3: Europe"s Most Wanted (2012)</item>
+        <item>Horton Hears a Who! (2008)</item>
+        <item>Meet the Robinsons (2007)</item>
+        <item>Mr. Peabody and Sherman (2014)</item>
+        <item>The Hunchback of Notre Dame (1996)</item>
+        <item>Bolt (2008)</item>
+        <item>The Road to El Dorado (2000)</item>
+        <item>Madagascar (2005)</item>
+        <item>Bedknobs and Broomsticks (1971)</item>
+        <item>Legend of the Guardians: The Owls of Ga"Hoole (2010)</item>
+        <item>Ice Age: Dawn of the Dinosaurs (2009)</item>
+        <item>Frankenweenie (2012)</item>
+        <item>Spirit: Stallion of the Cimarron (2002)</item>
+        <item>The SpongeBob SquarePants Movie (2004)</item>
+        <item>Cloudy with a Chance of Meatballs (2009)</item>
+        <item>ParaNorman (2012)</item>
+        <item>Chicken Run (2000)</item>
+        <item>The Prince of Egypt (1998)</item>
+        <item>Rio (2011)</item>
+        <item>All Dogs Go to Heaven</item>
+        <item>Sinbad: Legend of the Seven Seas (2003)</item>
+        <item>Puss in Boots (2011)</item>
+        <item>The Pirates! Band of Misfits (2012)</item>
+        <item>Oliver and Company (1988)</item>
+        <item>James and the Giant Peach (1996)</item>
+        <item>Madagascar: Escape 2 Africa (2008)</item>
+        <item>Penguins of Madagascar (2014)</item>
+        <item>Epic (2013)</item>
+        <item>Hotel Transylvania 2 (2015)</item>
+        <item>Pocahontas (1995)</item>
+        <item>Home (II) (2015)</item>
+        <item>The Secret Life of Pets (2016)</item>
+        <item>Beavis and Butt-Head Do America (1996)</item>
+        <item>A Goofy Movie (1995)</item>
+        <item>Surf"s Up (2007)</item>
+        <item>Brother Bear (2003)</item>
+        <item>Atlantis: The Lost Empire (2001)</item>
+        <item>Over the Hedge (2006)</item>
+        <item>The Boxtrolls (2014)</item>
+        <item>A Christmas Carol (2009)</item>
+        <item>The Good Dinosaur (2015)</item>
+        <item>The Rescuers Down Under (1990)</item>
+        <item>The Rescuers (1977)</item>
+        <item>Ice Age: The Meltdown (2006)</item>
+        <item>All Dogs Go to Heaven (1989)</item>
+        <item>The Polar Express (2004)</item>
+        <item>Batman: The Killing Joke (2016)</item>
+        <item>Monster House (2006)</item>
+        <item> Ice Age: Continental Drift (2012)</item>
+        <item>Antz (1998)</item>
+        <item> Flushed Away (2006)</item>
+        <item>Titan A.E. (2000)</item>
+        <item>The Lorax (2012)</item>
+        <item>Turbo (2013)</item>
+        <item>Monsters vs. Aliens (2009)</item>
+        <item>Dinosaur (2000)</item>
+        <item>Happy Feet (2006)</item>
+        <item>Cloudy with a Chance of Meatballs 2 (2013)</item>
+        <item>Planet 51 (2009)</item>
+        <item>Shrek the Third (2007)</item>
+        <item>Open Season (2006)</item>
+        <item>Osmosis Jones (2001)</item>
+        <item>Beowulf (2007)</item>
+        <item>Bee Movie (2007)</item>
+        <item>Astro Boy (2009)</item>
+        <item> TMNT (2007)</item>
+        <item>Robots (2005)</item>
+        <item>Space Jam (1996)</item>
+        <item>Cars 2 (2011)</item>
+        <item>The Angry Birds Movie (2016)</item>
+        <item>Final Fantasy: The Spirits Within (2001)</item>
+        <item>Shrek Forever After (2010)</item>
+        <item>Rio 2 (2014)</item>
+        <item>Minions (2015)</item>
+        <item>Sausage Party (2016)</item>
+        <item>Hoodwinked! (2005)</item>
+        <item>Garfield (2004)</item>
+        <item>G-Force (2009)</item>
+        <item>Alvin and the Chipmunks (2007)</item>
+        <item>Stuart Little 2 (2002)</item>
+        <item>The Smurfs 2 (2013)</item>
+        <item>The Smurfs (2011)</item>
+        <item>Pixels (2015) </item>
+        <item>Star Wars: The Clone Wars (2008)</item>
+        <item>Planes (2013)</item>
+        <item>Chicken Little (2005)</item>
+        <item>The Ant Bully (2006)</item>
+        <item>Pokémon: The First Movie - Mewtwo Strikes Back (1998)</item>
+        <item>Happy Feet 2 (2011)</item>
+        <item>Arthur and the Invisibles (2006)</item>
+        <item>Gnomeo and Juliet (2011)</item>
+        <item>The SpongeBob Movie: Sponge Out of Water (2015)</item>
+        <item>Shark Tale (2004)</item>
+        <item>The Tale of Despereaux (2008)</item>
+        <item>Garfield 2 (2006)</item>
+        <item>Alvin and the Chipmunks: The Squeakquel (2009)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="War">
+
+        <item>Braveheart (1995)</item>
+        <item>Paths of Glory (1957)</item>
+        <item>The Great Dictator (1940)</item>
+        <item>Grave of the Fireflies (1988)</item>
+        <item>The Pianist (2002)</item>
+        <item>Apocalypse Now (1979)</item>
+        <item>Casablanca (1942)</item>
+        <item>Life Is Beautiful (1997)</item>
+        <item>Saving Private Ryan (1998)</item>
+        <item>Hacksaw Ridge (2016)</item>
+        <item>The Mountain II (2016)</item>
+        <item>Judgment at Nuremberg (1961)</item>
+        <item>Airlift (2016)</item>
+        <item>Come and See (1985)</item>
+        <item>The Great Escape (1963)</item>
+        <item>Downfall (2004)</item>
+        <item>Full Metal Jacket (1987)</item>
+        <item>Inglourious Basterds (2009)</item>
+        <item>The Message (1976)</item>
+        <item>Baahubali: The Beginning (2015)</item>
+        <item>Das Boot (1981)</item>
+        <item>All Quiet on the Western Front (1930)</item>
+        <item>Hotel Rwanda (2004)</item>
+        <item>Barry Lyndon (1975)</item>
+        <item>Platoon (1986)</item>
+        <item>The Imitation Game (2014)</item>
+        <item>The General (1926)</item>
+        <item>The Bridge on the River Kwai (1957)</item>
+        <item>The Deer Hunter (1978)</item>
+        <item>Gone with the Wind (1939)</item>
+        <item>Incendies (2010)</item>
+        <item>No Man"s Land (I) (2001)</item>
+        <item>Duck Soup (1933)</item>
+        <item>Persepolis (2007)</item>
+        <item>Doctor Zhivago (1965)</item>
+        <item>Patton (1970)</item>
+        <item>Tae Guk Gi: The Brotherhood of War (2004)</item>
+        <item>La Grande Illusion (1937)</item>
+        <item>Stalag 17 (1953)</item>
+        <item>Underground (1995)</item>
+        <item>The Battle of Algiers (1966)</item>
+        <item>The Best Years of Our Lives (1946)</item>
+        <item>The Wind Rises (2013)</item>
+        <item>The Dirty Dozen (1967)</item>
+        <item>Empire of the Sun (1987)</item>
+        <item>Beasts of No Nation (2015)</item>
+        <item>Black Book (2006)</item>
+        <item>The Last of the Mohicans (1992)</item>
+        <item>Atonement (2007)</item>
+        <item>The Killing Fields (1984)</item>
+        <item>The African Queen (1951)</item>
+        <item>Letters from Iwo Jima (2006)</item>
+        <item>Glory (1989)</item>
+        <item>Fury (2014)</item>
+        <item>Kelly"s Heroes (1970)</item>
+        <item>A Very Long Engagement (2004)</item>
+        <item>Where Eagles Dare (1968)</item>
+        <item>Black Hawk Down (2001)</item>
+        <item>300 (2006)</item>
+        <item>Love and Death (1975)</item>
+        <item>Zulu (1964)</item>
+        <item>From Here to Eternity (1953)</item>
+        <item>The Longest Day (1962)</item>
+        <item>The Counterfeiters (2007)</item>
+        <item>The Guns of Navarone (1961)</item>
+        <item>Lust, Caution (2007)</item>
+        <item>Hair (1979)</item>
+        <item>The Flowers of War (2011)</item>
+        <item>The Book Thief (2013)</item>
+        <item>The Thin Red Line (1998)</item>
+        <item>Enemy at the Gates (2001)</item>
+        <item>The Hurt Locker (2008)</item>
+        <item>Lone Survivor (2013)</item>
+        <item> A Bridge Too Far (1977)</item>
+        <item> Master and Commander: The Far Side of the World (2003)</item>
+        <item>The English Patient (1996)</item>
+        <item>Lincoln (2012)</item>
+        <item>Tora! Tora! Tora! (1970)</item>
+        <item>Gallipoli (1981)</item>
+        <item>The Wind That Shakes the Barley (2006)</item>
+        <item>Malèna (2000)</item>
+        <item>Son of Saul (2015)</item>
+        <item>Legends of the Fall (1994)</item>
+        <item>Mulan (1998)</item>
+        <item>Kingdom of Heaven (2005)</item>
+        <item>War Dogs (2016)</item>
+        <item>Conquest 1453 (2012)</item>
+        <item>Mongol: The Rise of Genghis Khan (2007)</item>
+        <item>Crimson Tide (1995)</item>
+        <item>Rescue Dawn (2006)</item>
+        <item>Good Morning, Vietnam (1987)</item>
+        <item>Eye in the Sky (2015)</item>
+        <item>Red Cliff (2008)</item>
+        <item>Rambo (2008)</item>
+        <item>Jarhead (2005)</item>
+        <item>The Railway Man (2013)</item>
+        <item>We Were Soldiers (2002)</item>
+        <item>The Patriot (2000)</item>
+        <item>The Messenger (I) (2009)</item>
+        <item>Che: Part One (2008)</item>
+        <item>Born on the Fourth of July (1989)</item>
+        <item>War Horse (2011)</item>
+        <item>Cold Mountain (2003)</item>
+        <item>Defiance (I) (2008)</item>
+        <item>The Golden Age (2007)</item>
+        <item>Tigerland (2000)</item>
+        <item>Camp X-Ray (2014)</item>
+        <item>Seven Years in Tibet (1997)</item>
+        <item>Casualties of War (1989)</item>
+        <item>Flags of Our Fathers (2006)</item>
+        <item>Three Kings (1999)</item>
+        <item>Brothers (I) (2009)</item>
+        <item>The Water Diviner (2014)</item>
+        <item>Body of Lies (2008)</item>
+        <item>Valkyrie (2008)</item>
+        <item>Australia (2008)</item>
+        <item>Tears of the Sun (2003)</item>
+        <item>U-571 (2000)</item>
+        <item>Whiskey Tango Foxtrot (2016)</item>
+        <item>Seraphim Falls (2006)</item>
+        <item>K-19: The Widowmaker (2002)</item>
+        <item>Macbeth (2015)</item>
+        <item>Heartbreak Ridge (1986)</item>
+        <item>Che: Part Two (2008)</item>
+        <item>Green Zone (2010)</item>
+        <item>Stripes (1981)</item>
+        <item>King Arthur (2004)</item>
+        <item>Rules of Engagement (2000)</item>
+        <item>Centurion (2010)</item>
+        <item>Behind Enemy Lines (2001)</item>
+        <item>Red Dawn (1984)</item>
+        <item>Rambo: First Blood Part II (1985)</item>
+        <item>The Four Feathers (2002)</item>
+        <item>Act of Valor (2012)</item>
+        <item>Courage Under Fire (1996)</item>
+        <item>Flyboys (2006)</item>
+        <item>Salò, or the 120 Days of Sodom (1975)</item>
+        <item>Windtalkers (2002)</item>
+        <item>The Monuments Men (2014)</item>
+        <item>Pearl Harbor (2001)</item>
+        <item>Lions for Lambs (2007)</item>
+        <item>Coriolanus (2011)</item>
+        <item>The Men Who Stare at Goats (2009)</item>
+        <item>300: Rise of an Empire (2014)</item>
+        <item>Hart"s War (2002)</item>
+        <item>Dear John (I) (2010)</item>
+        <item>Dracula Untold (2014)</item>
+        <item>In the Land of Blood and Honey (2011)</item>
+        <item>The Last Legion (2007)</item>
+        <item>Alexander (2004)</item>
+        <item>Rambo III (1988)</item>
+        <item>G.I. Jane (1997)</item>
+        <item>Captain Corelli"s Mandolin (2001)</item>
+        <item>1941 (1979)</item>
+        <item>Red Tails (2012)</item>
+
+    </string-array>
+</resources>

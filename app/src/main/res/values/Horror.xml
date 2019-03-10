@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Horror">
+        <item>King Kong (1933)</item>
+        <item>Night of the Living Dead (1968)</item>
+        <item>Dawn of the Dead (1978)</item>
+        <item>Let the Right One In (2008)</item>
+        <item>Rosemary"s Baby (1968)</item>
+        <item>Shaun of the Dead (2004)</item>
+        <item>The Exorcist (1973)</item>
+        <item>Diabolique (1955)</item>
+        <item>What Ever Happened to Baby Jane? (1962)</item>
+        <item>The Thing (1982)</item>
+        <item>The Shining (1980)</item>
+        <item>The Birds (1963)</item>
+        <item>Saw (2004)</item>
+        <item>Zombieland (2009)</item>
+        <item>Invasion of the Body Snatchers (1956)</item>
+        <item> Repulsion (1965)</item>
+        <item>Evil Dead II (1987)</item>
+        <item>Predator (1987)</item>
+        <item>The Bride of Frankenstein (1935)</item>
+        <item>Halloween (1978)</item>
+        <item>Freaks (1932)</item>
+        <item>Frankenstein (1931)</item>
+        <item>Nosferatu (1922)</item>
+        <item>The Omen (1976)</item>
+        <item> An American Werewolf in London (1981)</item>
+        <item>Dead Alive (1992)</item>
+        <item>Grindhouse (2007)</item>
+        <item>Tucker and Dale vs Evil (2010)</item>
+        <item>The Others (2001)</item>
+        <item>What We Do in the Shadows (2014)</item>
+        <item>Army of Darkness (1992)</item>
+        <item>The Evil Dead (1981)</item>
+        <item>Interview with the Vampire: The Vampire Chronicles (1994)</item>
+        <item>28 Days Later... (2002)</item>
+        <item>Train to Busan (2016)</item>
+        <item>The Devil"s Backbone (2001)</item>
+        <item>Suspiria (1977)</item>
+        <item>[Rec] (2007)</item>
+        <item>The Fly (1986)</item>
+        <item>Jacob"s Ladder (I) (1990)</item>
+        <item>The Texas Chain Saw Massacre (1974)</item>
+        <item>A Nightmare on Elm Street (1984)</item>
+        <item>Bram Stoker"s Dracula (1992)</item>
+        <item>The Conjuring (2013)</item>
+        <item>The Conjuring 2 (2016)</item>
+        <item>Man Bites Dog (1992)</item>
+        <item>The Haunting (1963)</item>
+        <item>Dracula (I) (1931)</item>
+        <item>Only Lovers Left Alive (2013)</item>
+        <item>The Return of the Living Dead (1985)</item>
+        <item>From Dusk Till Dawn (1996)</item>
+        <item>Don"t Breathe (2016)</item>
+        <item>Blow Out (1981)</item>
+        <item>Invasion of the Body Snatchers (1978)</item>
+        <item>Poltergeist (1982)</item>
+        <item>Sleepy Hollow (1999)</item>
+        <item>Carrie (1976)</item>
+        <item>Sweeney Todd: The Demon Barber of Fleet Street (2007)</item>
+        <item>Eraserhead (1977)</item>
+        <item>Dawn of the Dead (2004)</item>
+        <item>Planet Terror (2007)</item>
+        <item>The Lost Boys (1987)</item>
+        <item> Gremlins (1984)</item>
+        <item>Ringu (1998)</item>
+        <item>Dead Ringers (1988)</item>
+        <item>A Tale of Two Sisters (2003)</item>
+        <item> Don"t Look Now (1973)</item>
+        <item>Angel Heart (1987)	</item>
+        <item>The Ring (2002)</item>
+        <item>Bone Tomahawk (2015)</item>
+        <item>Tremors (1990)</item>
+        <item>Green Room (2015)</item>
+        <item>Bubba Ho-Tep (2002)</item>
+        <item>The Dead Zone (1983)</item>
+        <item>Re-Animator (1985)</item>
+        <item> Audition (1999)	</item>
+        <item> In the Mouth of Madness (1994)</item>
+        <item>Timecrimes (2007)</item>
+        <item>Day of the Dead (1985)</item>
+        <item>Twin Peaks: Fire Walk with Me (1992)</item>
+        <item>Let Me In (I) (2010)</item>
+        <item>The Descent (2005)</item>
+        <item>Cloverfield (2008)</item>
+        <item>The Cabin in the Woods (2012)</item>
+        <item>World War Z (2013)</item>
+        <item>Ravenous (1999)</item>
+        <item>Ichi the Killer (2001)</item>
+        <item>Brotherhood of the Wolf (2001)</item>
+        <item>Thirst (2009)</item>
+        <item>The Frighteners (1996)</item>
+        <item> Fright Night (1985)</item>
+        <item>Pitch Black (2000)</item>
+        <item> Blade (1998)</item>
+        <item>Martyrs (2008)</item>
+        <item>The Devil"s Rejects (2005)</item>
+        <item>Odd Thomas (2013)</item>
+        <item>Constantine (2005)</item>
+        <item>Warm Bodies (2013)</item>
+        <item>Near Dark (1987)</item>
+        <item>Trollhunter (2010)</item>
+        <item>Hellraiser (1987)</item>
+        <item>Hellboy II: The Golden Army (2008)	</item>
+        <item>Orphan (2009)</item>
+        <item>Stonehearst Asylum (2014)</item>
+        <item>1408 (2007)</item>
+        <item>Insidious (I) (2010)</item>
+        <item>Hellboy (2004)</item>
+        <item>The Babadook (2014)</item>
+        <item>Shadow of the Vampire (2000)</item>
+        <item>Inside (2007)</item>
+        <item>Night of the Living Dead (1990)</item>
+        <item>Little Shop of Horrors (1986)</item>
+        <item>Creepshow (1982)</item>
+        <item>Dead Calm (1989)</item>
+        <item>Dog Soldiers (2002)</item>
+        <item>Ginger Snaps (2000)</item>
+        <item>Scanners (1981)</item>
+        <item>The Fog (1980)</item>
+        <item>The Ghost and the Darkness (1996)</item>
+        <item>Eden Lake (2008)</item>
+        <item>eXistenZ (1999)</item>
+        <item> From Hell (2001)</item>
+        <item>Trick"r Treat (2007)</item>
+        <item>Bad Taste (1987)</item>
+        <item>The Loved Ones (2009)</item>
+        <item>Kalifornia (1993)</item>
+        <item> The Exorcism of Emily Rose (2005)</item>
+        <item>Final Destination (2000)</item>
+        <item>Prince of Darkness (1987)</item>
+        <item>Blade II (2002)</item>
+        <item>Event Horizon (1997)</item>
+        <item>Resident Evil (2002)</item>
+        <item>The Witch (2015)</item>
+        <item>The Last House on the Left (2009)</item>
+        <item>30 Days of Night (2007)</item>
+        <item>Insidious: Chapter 2 (2013)</item>
+        <item>Pet Sematary (1989)</item>
+        <item>Antichrist (2009)</item>
+        <item>Crimson Peak (2015)</item>
+        <item>Hush (I) (2016)</item>
+        <item>The Eye (2002)</item>
+        <item>Ju-on: The Grudge (2002)</item>
+        <item> May (2002)</item>
+        <item>Drag Me to Hell (2009)</item>
+        <item>The Purge: Anarchy (2014)</item>
+        <item>Evil Dead (2013)</item>
+        <item> Horns (2013)</item>
+        <item>[Rec] 2 (2009)</item>
+        <item>Tideland (2005)</item>
+        <item>Halloween II (1981)</item>
+        <item>A Nightmare on Elm Street 3: Dream Warriors (1987)</item>
+        <item>Candyman (1992)</item>
+        <item>Saw II (2005)</item>
+        <item>Christine (1983)</item>
+        <item>Slither (2006)</item>
+        <item>The Awakening (I) (2011)</item>
+        <item>Friday the 13th (1980)	</item>
+        <item>Byzantium (2012)</item>
+        <item>Stake Land (2010)</item>
+        <item>Child"s Play (1988)</item>
+        <item>The Skeleton Key (2005)</item>
+        <item>You"re Next (2011)</item>
+        <item>The Witches of Eastwick (1987)</item>
+        <item>Funny Games (2007)</item>
+        <item>Daybreakers (2009</item>
+        <item>Oculus (I) (2013)</item>
+        <item>Death Becomes Her (1992)</item>
+        <item>The Hills Have Eyes (2006)</item>
+        <item>Alien 3 (1992)</item>
+        <item>Underworld: Awakening (2012)</item>
+        <item>The Shallows (2016)</item>
+        <item>Lights Out (II) (2016)</item>
+        <item>Severance (2006)</item>
+        <item>Hellbound: Hellraiser II (1988)</item>
+        <item>Session 9 (2001)</item>
+        <item>Twilight Zone: The Movie (1983)</item>
+        <item>The Mothman Prophecies (2002)</item>
+        <item>The Crazies (2010)</item>
+        <item>Mindhunters (2004)</item>
+        <item>New Nightmare (1994)</item>
+        <item>The Good Son (1993)</item>
+        <item> Mary Shelley"s Frankenstein (1994)</item>
+        <item>The Collector (I) (2009)</item>
+        <item>Feast (2005)</item>
+        <item> The Faculty (1998)</item>
+        <item>The Woman in Black (2012)</item>
+        <item> Black Death (2010)	</item>
+        <item>The Blair Witch Project (1999)	</item>
+        <item> The Uninvited (2009)</item>
+        <item>Fright Night (2011)</item>
+        <item>The Voices (2014)</item>
+        <item>I Spit on Your Grave (2010)</item>
+        <item>Scouts Guide to the Zombie Apocalypse (2015)</item>
+        <item>Alien: Resurrection (1997)</item>
+        <item>Goosebumps (2015)</item>
+        <item>Under the Skin (I) (2013)</item>
+        <item>The Neon Demon (2016)</item>
+        <item>Arachnophobia (1990)</item>
+        <item>The House of the Devil (2009)</item>
+        <item>John Dies at the End (2012)</item>
+        <item>Dead Snow (2009)</item>
+        <item>Deliver Us from Evil (2014)</item>
+        <item>Case 39 (2009)</item>
+        <item>As Above, So Below (2014)</item>
+        <item>The Thing (I) (2011)</item>
+        <item>Scream 4 (2011)</item>
+        <item> The Texas Chainsaw Massacre (2003)</item>
+        <item>Land of the Dead (2005)</item>
+        <item>The Strangers (2008)</item>
+        <item>Red State (2011)</item>
+        <item>Mama (I) (2013)</item>
+        <item>Resident Evil: Apocalypse (2004)</item>
+        <item>Dark Shadows (2012)</item>
+        <item>The Visit (I) (2015)</item>
+        <item>Krampus (I) (2015)</item>
+        <item>Kill List (2011)</item>
+        <item>Paranormal Activity (2007)</item>
+        <item>Wolf Creek (2005)	</item>
+        <item>Devil (2010)</item>
+        <item>Dark Skies (2013)</item>
+        <item>Resident Evil: Extinction (2007)</item>
+        <item> Gremlins 2: The New Batch (1990)</item>
+        <item>The Craft (1996)</item>
+        <item>The Cell (2000)</item>
+        <item>The Collection (II) (2012)</item>
+        <item>V/H/S/2 (2013)</item>
+        <item>Bug (2006)</item>
+        <item>The Midnight Meat Train (2008)</item>
+        <item>Vampires (1998)</item>
+        <item>Maniac (2012)</item>
+        <item>Scream 2 (1997)</item>
+        <item>Jeepers Creepers (2001)</item>
+        <item>Halloween (2007)</item>
+        <item>Wrong Turn (I) (2003)</item>
+        <item>Insidious: Chapter 3 (2015)</item>
+        <item>Hansel and Gretel: Witch Hunters (2013)</item>
+        <item>Wolf (1994)</item>
+        <item>The Amityville Horror (1979)</item>
+        <item>Vacancy (2007)</item>
+        <item>Idle Hands (1999)</item>
+        <item>Stigmata (1999)</item>
+        <item>Red Lights (2012)</item>
+        <item>Final Destination 2 (2003)</item>
+        <item>Saw III (2006)</item>
+        <item>Mirrors (I) (2008)</item>
+        <item>Predator 2 (1990)	</item>
+        <item>Dead Silence (2007)</item>
+        <item>Saw VI (2009)	</item>
+        <item>Pathology (2008)</item>
+        <item>The Last House on the Left (1972)</item>
+        <item>The Rite (2011)</item>
+        <item>House of 1000 Corpses (2003)</item>
+        <item> Cujo (1983)</item>
+        <item>Cannibal Holocaust (1980)</item>
+        <item>The Amityville Horror (2005)</item>
+        <item>Victor Frankenstein (2015)</item>
+        <item>The Boy (2016)</item>
+        <item>The Purge: Election Year (2016)</item>
+        <item>Splinter (I) (2008)</item>
+        <item>Grave Encounters (2011)</item>
+        <item>6 Souls (2010)	</item>
+        <item>Friday the 13th Part 2 (1981)</item>
+        <item>Blade: Trinity (2004)</item>
+        <item>Hostel (2005)</item>
+        <item>The Mortal Instruments: City of Bones (2013)</item>
+        <item>Deep Rising (1998)</item>
+        <item>Carriers (2009)</item>
+        <item>Quarantine (2008)</item>
+    </string-array>
+</resources>

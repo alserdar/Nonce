@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Biography">
+        <item>The Elephant Man (1980)</item>
+        <item>A Beautiful Mind (2001)</item>
+        <item>The Wolf of Wall Street (2013)</item>
+        <item>Bhaag Milkha Bhaag (2013)</item>
+        <item>The Passion of Joan of Arc (1928)</item>
+        <item>Raging Bull (1980)</item>
+        <item>Lawrence of Arabia (1962)</item>
+        <item>Amadeus (1984)</item>
+        <item>Schindler"s List (1993)</item>
+        <item>In the Name of the Father (1993)</item>
+        <item>Gandhi (1982)</item>
+        <item>Rush (I) (2013)</item>
+        <item>12 Years a Slave (2013)</item>
+        <item>Spotlight (I) (2015)</item>
+        <item>The Diving Bell and the Butterfly (2007)</item>
+        <item>Papillon (1973)</item>
+        <item>Cinderella Man (2005)</item>
+        <item>The King"s Speech (2010)</item>
+        <item>The Pursuit of Happyness (2006)</item>
+        <item>The Sound of Music (1965)</item>
+        <item>The Sea Inside (I) (2004)</item>
+        <item>Spartacus (1960)</item>
+        <item>The Fighter (I) (2010)</item>
+        <item>The Motorcycle Diaries (2004)</item>
+        <item>Tombstone (1993)</item>
+        <item>Remember the Titans (2000)</item>
+        <item>The Big Short (2015)</item>
+        <item>The World"s Fastest Indian (2005)</item>
+        <item>My Left Foot (1989)</item>
+        <item>Ed Wood (1994)	</item>
+        <item>The Insider (1999)</item>
+        <item>Sully (2016)</item>
+        <item>The Last Emperor (1987)</item>
+        <item>Serpico (1973)</item>
+        <item>October Sky (1999)</item>
+        <item>Awakenings (1990)</item>
+        <item>Pride (I) (2014)</item>
+        <item>Finding Neverland (2004)</item>
+        <item>Control (2007)</item>
+        <item>Midnight Express (1978)</item>
+        <item>Malcolm X (1992)</item>
+        <item>Ray (I) (2004)</item>
+        <item>The Last King of Scotland (2006)</item>
+        <item>The Blind Side (2009)</item>
+        <item>Argo (2012)</item>
+        <item>The Social Network (2010)</item>
+        <item>The Theory of Everything (2014)</item>
+        <item>Boys Don"t Cry (1999)</item>
+        <item>A Royal Affair (2012)</item>
+        <item>La Vie en Rose (2007)</item>
+        <item>Moneyball (2011)</item>
+        <item>Blow (2001)</item>
+        <item>Fearless (2006)</item>
+        <item>The Assassination of Jesse James by the Coward Robert Ford (2007)</item>
+        <item>The Aviator (2004)</item>
+        <item>Mesrine Part 1: Killer Instinct (2008)</item>
+        <item>The Damned United (2009)</item>
+        <item>The Hurricane (1999)</item>
+        <item>Ip Man 2 (2010)</item>
+        <item>Hunger (2008)</item>
+        <item>Philomena (2013)</item>
+        <item>Escape from Alcatraz (1979)</item>
+        <item>The Great Debaters (2007)</item>
+        <item>Gods and Monsters (1998)</item>
+        <item>Good Night, and Good Luck. (2005)	</item>
+        <item>Miracle (2004)</item>
+        <item> Rudy (1993)</item>
+        <item>Fruitvale Station (2013)</item>
+        <item>42 (2013)</item>
+        <item>Freedom Writers (2007)	</item>
+        <item>Elizabeth (1998)</item>
+        <item>Selma (2014)</item>
+        <item>McFarland, USA (2015)	</item>
+        <item>Love and Mercy (2014)</item>
+        <item>Capote (2005)</item>
+        <item>Invictus (2009)</item>
+        <item>The Walk (II) (2015)</item>
+        <item>Eddie the Eagle (2016)	</item>
+        <item>Snowden (2016)</item>
+        <item>Girl, Interrupted (1999)</item>
+        <item>Erin Brockovich (2000)</item>
+        <item>American Sniper (2014)</item>
+        <item>The Baader Meinhof Complex (2008)</item>
+        <item>Quills (2000)</item>
+        <item>The People vs. Larry Flynt (1996)</item>
+        <item>Antwone Fisher (2002)</item>
+        <item>This Boy"s Life (1993)</item>
+        <item>The Basketball Diaries (1995)</item>
+        <item>The Young Victoria (2009)</item>
+        <item>The Queen (2006)</item>
+        <item>Woman in Gold (2015)</item>
+        <item>The Way Back (I) (2010)</item>
+        <item>Chariots of Fire (1981)</item>
+        <item>Men of Honor (2000)</item>
+        <item>Glory Road (2006)</item>
+        <item>The Doors (1991)</item>
+        <item>Lee Daniels" The Butler (I) (2013)</item>
+        <item>Che: Part One (2008)</item>
+        <item>Unbroken (I) (2014)</item>
+        <item>Steve Jobs (2015)</item>
+        <item>Everest (2015)</item>
+        <item>Wild (I) (2014)</item>
+        <item>The Infiltrator (2016)</item>
+        <item>Chopper (2000)</item>
+        <item>Conviction (II) (2010)</item>
+        <item>The Sessions (2012)</item>
+        <item>Chasing Mavericks (2012)</item>
+        <item>Nowhere Boy (2009)	</item>
+        <item>Lords of Dogtown (2005)</item>
+        <item>Soul Surfer (2011)</item>
+        <item>Ip Man 3 (2015)</item>
+        <item>Invincible (2006)</item>
+        <item>Margin Call (2011)</item>
+        <item>Charlie Wilson"s War (2007)</item>
+        <item>Bronson (2008)</item>
+        <item>Alive (1993)</item>
+        <item>Concussion (2015)</item>
+        <item>My Week with Marilyn (2011)</item>
+        <item>Legend (I) (2015)</item>
+        <item>The Danish Girl (2015)</item>
+        <item>The Legend Is Born: Ip Man (2010)</item>
+        <item>Find Me Guilty (2006)</item>
+        <item>Kill the Irishman (2011)</item>
+        <item>The Devil"s Double (2011)</item>
+        <item>Confessions of a Dangerous Mind (2002)	</item>
+        <item>Girl with a Pearl Earring (2003)</item>
+        <item>I"m Not There. (2007)</item>
+        <item>Bully (2001)</item>
+        <item>Julie and Julia (2009)</item>
+        <item>Kill the Messenger (2014)</item>
+        <item>Foxcatcher (2014)</item>
+        <item>Public Enemies (2009)</item>
+        <item>Big Eyes (I) (2014)</item>
+        <item>The Duchess (2008)</item>
+        <item>Radio (2003)</item>
+        <item>The Golden Age (2007)</item>
+        <item>The Iceman (2012)</item>
+        <item>Alpha Dog (2006)</item>
+        <item>In the Heart of the Sea (2015)</item>
+        <item>Black Mass (2015)</item>
+        <item>Breach (2007)</item>
+        <item>Million Dollar Arm (2014)</item>
+        <item>Bobby (2006)</item>
+        <item>The Other Boleyn Girl (2008)</item>
+        <item>Fair Game (I) (2010)</item>
+        <item>Machine Gun Preacher (2011)</item>
+        <item>Private Parts (1997)</item>
+        <item>Ali (2001)	</item>
+        <item>Jersey Boys (2014)</item>
+        <item>Bloodsport (1988)</item>
+        <item>Goya"s Ghosts (2006)</item>
+        <item>Rob Roy (1995)</item>
+        <item>Notorious (2009)</item>
+        <item>I Love You Phillip Morris (2009)</item>
+        <item>The Runaways (2010)</item>
+        <item>Wyatt Earp (1994)</item>
+        <item>J. Edgar (2011)</item>
+        <item>Coco Before Chanel (2009)</item>
+        <item>Patch Adams (1998)</item>
+        <item>The Soloist (2009)</item>
+        <item>The New World (2005)</item>
+        <item>The Messenger: The Story of Joan of Arc (1999)</item>
+        <item>The Iron Lady (2011)</item>
+        <item>Dangerous Minds (1995)</item>
+        <item>W. (I) (2008)</item>
+        <item>Marie Antoinette (2006)</item>
+        <item>The Grandmaster (2013)</item>
+        <item>How to Lose Friends and Alienate People (2008)</item>
+        <item>Kill Your Darlings (2013)</item>
+        <item>A Dangerous Method (2011)</item>
+        <item>The Bling Ring (2013)</item>
+        <item>Open Water (2003)</item>
+        <item>Jobs (2013)</item>
+        <item>Domino (2005)</item>
+        <item>Lovelace (2013)</item>
+        <item>The Fifth Estate (2013)</item>
+        <item>Evita (1996)</item>
+        <item>Compliance (2012)</item>
+        <item>Get Rich or Die Tryin" (2005)</item>
+    </string-array>
+
+</resources>

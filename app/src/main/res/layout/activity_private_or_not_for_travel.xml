@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.internal.ForegroundLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:weightSum="2.5"
+    android:background="@color/white"
+    tools:context="twitter.nonce_app.travel.PrivateOrNotForTravel">
+
+
+    <android.support.design.internal.ForegroundLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/share_your_travel"
+            android:gravity="center"/>
+    </android.support.design.internal.ForegroundLinearLayout>
+
+    <android.support.design.internal.ForegroundLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:gravity="center">
+
+        <android.support.design.internal.ForegroundLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:gravity="start"
+            android:background="?attr/selectableItemBackground"
+            android:id="@+id/twitterLayout">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:id="@+id/viewTwitter"/>
+
+            <CheckBox
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".75"
+                android:text="@string/twitter"
+                android:id="@+id/ConnectWithTwitterForHangout"
+                android:gravity="center"
+                android:clickable="true"
+                android:button="@android:color/transparent" />
+
+
+        </android.support.design.internal.ForegroundLinearLayout>
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/line_custome"
+            android:visibility="visible"/>
+        <android.support.design.internal.ForegroundLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="start"
+            android:id="@+id/facebookLayout"
+            android:visibility="visible">
+
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".75"
+                android:text="@string/facebook"
+                android:id="@+id/ConnectWithFacebookForHangout"
+                android:gravity="center"
+                android:button="@android:color/transparent"
+                android:clickable="true" />
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:id="@+id/viewFacebook"/>
+
+        </android.support.design.internal.ForegroundLinearLayout>
+
+    </android.support.design.internal.ForegroundLinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/line_custome"/>
+
+    <android.support.design.internal.ForegroundLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/let_friends_connecting_you_with"
+            android:gravity="center"/>
+    </android.support.design.internal.ForegroundLinearLayout>
+
+    <android.support.design.internal.ForegroundLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <android.support.design.internal.ForegroundLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:id="@+id/bbmLayout"
+            android:gravity="start"
+            android:background="?attr/selectableItemBackground"
+            >
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:id="@+id/viewbbm"/>
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".75"
+                android:text="@string/bbm"
+                android:gravity="center"
+                android:clickable="true"
+                android:button="@android:color/transparent"
+                android:id="@+id/ConnectWithBBMForHangout" />
+
+        </android.support.design.internal.ForegroundLinearLayout>
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/line_custome"
+            />
+        <android.support.design.internal.ForegroundLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:id="@+id/whatsappLayout"
+            android:gravity="start"
+            android:background="?attr/selectableItemBackground">
+
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".75"
+                android:text="@string/whatsapp"
+                android:gravity="center"
+                android:button="@android:color/transparent"
+                android:id="@+id/ConnectWithWhatsAppForHangout"
+                android:clickable="true"/>
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:id="@+id/viewwhatsapp"/>
+
+        </android.support.design.internal.ForegroundLinearLayout>
+
+    </android.support.design.internal.ForegroundLinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/line_custome"/>
+    <android.support.design.internal.ForegroundLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:orientation="horizontal"
+        android:weightSum="2.5"
+        android:gravity="bottom"
+        android:background="?attr/selectableItemBackground">
+
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/keep_it_private"
+            android:background="@drawable/button_custom"
+            android:id="@+id/keepItPrivate"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/share_it"
+            android:background="@drawable/button_custom"
+            android:id="@+id/shareIt"/>
+
+    </android.support.design.internal.ForegroundLinearLayout>
+
+</android.support.design.internal.ForegroundLinearLayout>

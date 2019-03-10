@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Romance">
+        <item>Gone with the Wind (1939)</item>
+        <item>Sunrise (1927) </item>
+        <item>The Apartment (1960)</item>
+        <item>Singin" in the Rain (1952)</item>
+        <item>Some Like It Hot (1959)</item>
+        <item>Eternal Sunshine of the Spotless Mind (2004)</item>
+        <item>Vertigo (1958)</item>
+        <item>Amélie (2001)</item>
+        <item>American Beauty (1999)</item>
+        <item>Modern Times (1936)</item>
+        <item>Andaz Apna Apna (1994)</item>
+        <item>City Lights (1931)</item>
+        <item>Casablanca (1942)</item>
+        <item>Roman Holiday (1953)</item>
+        <item>Before Sunrise (1995)</item>
+        <item>Annie Hall (1977)</item>
+        <item>Groundhog Day (1993)</item>
+        <item>The Princess Bride (1987)</item>
+        <item>Haider (2014)</item>
+        <item>Dil Chahta Hai (2001) </item>
+        <item>Barfi! (2012) </item>
+        <item>Wild Strawberries (1957)</item>
+        <item>Dilwale Dulhania Le Jayenge (1995)</item>
+        <item>It Happened One Night (1934)</item>
+        <item>Lagaan: Once Upon a Time in India (2001) </item>
+        <item> PK (2014)</item>
+        <item>Lage Raho Munna Bhai (2006)</item>
+        <item>3-Iron (2004)</item>
+        <item>My Sassy Girl (2001)</item>
+        <item>Brief Encounter (1945)</item>
+        <item>Black Cat, White Cat (1998)</item>
+        <item>Three Colors: Red (1994)</item>
+        <item>Chungking Express (1994)</item>
+        <item>Zindagi Na Milegi Dobara (2011)</item>
+        <item>The Legend of 1900 (1998)</item>
+        <item>Wings of Desire (1987)</item>
+        <item>Days of Heaven (1978)</item>
+        <item>Before Sunset (2004)</item>
+        <item>The Artist (I) (2011)</item>
+        <item>Fiddler on the Roof (1971)</item>
+        <item>True Romance (1993)</item>
+        <item>Sing Street (2016)</item>
+        <item>The Perks of Being a Wallflower (2012)</item>
+        <item>Captain Fantastic (2016)</item>
+        <item>Head-On (2004) </item>
+        <item>Jab We Met (2007) </item>
+        <item>His Girl Friday (1940)</item>
+        <item>Bringing Up Baby (1938)</item>
+        <item>The Adventures of Robin Hood (1938)</item>
+        <item>The Philadelphia Story (1940)</item>
+        <item>Notorious (1946)</item>
+        <item>Harold and Maude (1971)</item>
+        <item>Manhattan (1979)</item>
+        <item>Kal Ho Naa Ho (2003)</item>
+        <item>Veer-Zaara (2004)</item>
+        <item>Breaking the Waves (1996) </item>
+        <item>The African Queen (1951) </item>
+        <item>The Remains of the Day (1993)</item>
+        <item>Amour (2012)</item>
+        <item>Before Midnight (2013)</item>
+        <item>Once (2007) </item>
+        <item>My Fair Lady (1964)</item>
+        <item>Crouching Tiger, Hidden Dragon (2000) </item>
+        <item>Walk the Line (2005)</item>
+        <item>Mr. Nobody (2009) </item>
+        <item>Edward Scissorhands (1990)</item>
+        <item>The Notebook (2004) </item>
+        <item>The Curious Case of Benjamin Button (2008)</item>
+        <item>Silver Linings Playbook (2012)</item>
+        <item>Birdman or (The Unexpected Virtue of Ignorance) (2014)</item>
+        <item>Blue Is the Warmest Color (2013)</item>
+        <item>The Fault in Our Stars (2014)</item>
+        <item>Breakfast at Tiffany"s (1961)</item>
+        <item>Pride and Prejudice (2005)</item>
+        <item>Tangled (2010)</item>
+        <item>Jules and Jim (1962)</item>
+        <item>The Double Life of Veronique (1991) </item>
+        <item>Vicky Donor (2012)</item>
+        <item>Kuch Kuch Hota Hai (1998)</item>
+        <item>Porco Rosso (1992) </item>
+        <item>The Lunchbox (2013)</item>
+        <item>The Girl Who Leapt Through Time (2006)</item>
+        <item>Open Your Eyes (1997)</item>
+        <item>The Broken Circle Breakdown (2012)</item>
+        <item>Pride (I) (2014) </item>
+        <item>The Best Offer (2013) </item>
+        <item>Match Point (2005)</item>
+        <item>50/50 (2011)</item>
+        <item>Y Tu Mamá También (2001)</item>
+        <item>As Good as It Gets (1997)</item>
+        <item>500 Days of Summer (2009)</item>
+        <item>The Count of Monte Cristo (2002)</item>
+        <item>Midnight in Paris (2011)</item>
+        <item>Brokeback Mountain (2005)</item>
+        <item>Stardust (2007)</item>
+        <item>Titanic (1997)</item>
+        <item>Love Actually (2003)</item>
+        <item>Good Bye Lenin! (2003)</item>
+        <item>Love Me If You Dare (2003)</item>
+        <item>Sophie"s Choice (1982) </item>
+        <item>Dangerous Liaisons (1988)</item>
+        <item>Sabrina (1954)</item>
+        <item>Shane (1953)</item>
+        <item> A Very Long Engagement (2004) </item>
+        <item>Billy Elliot (2000)</item>
+        <item>Sense and Sensibility (1995)</item>
+        <item>Seven Pounds (2008) </item>
+        <item>Victoria (II) (2015)</item>
+        <item>The Reader (2008)</item>
+        <item>Moulin Rouge! (2001)</item>
+        <item>A Single Man (2009)</item>
+        <item>Les Misérables (2012) </item>
+        <item>The Barbarian Invasions (2003) </item>
+        <item>The Purple Rose of Cairo (1985)</item>
+        <item>Three Colors: White (1994)</item>
+        <item>In a Better World (2010)</item>
+        <item>Shine (1996)</item>
+        <item>Stranger Than Fiction (2006)</item>
+        <item>The Piano (1993)</item>
+        <item>Garden State (2004)</item>
+        <item>The Hours (2002)</item>
+        <item>Leaving Las Vegas (1995)</item>
+        <item>Little Children (2006)</item>
+        <item>Milk (I) (2008)</item>
+        <item>West Side Story (1961)</item>
+        <item>When Harry Met Sally… (1989)</item>
+        <item>La Vie en Rose (2007)</item>
+        <item>Snow White and the Seven Dwarfs (1937)</item>
+        <item>Lolita (1962)</item>
+        <item>Rockstar (2011)</item>
+        <item>Devdas (I) (2002)</item>
+        <item>Spellbound (1945)</item>
+        <item>Lust, Caution (2007) </item>
+        <item>The Big Blue (1988)</item>
+        <item>Hair (1979) </item>
+        <item>Tell No One (2006)</item>
+        <item>Robin Hood (1973)</item>
+        <item>The Great Debaters (2007) </item>
+        <item>The Painted Veil (2006)</item>
+        <item>The Constant Gardener (2005)</item>
+        <item>To Catch a Thief (1955)</item>
+        <item>Sideways (2004)</item>
+        <item>Rust and Bone (2012)</item>
+        <item>High Fidelity (2000) </item>
+        <item>Hugo (2011) </item>
+        <item>Brooklyn (2015)</item>
+        <item>Me Before You (2016)</item>
+        <item>Youth (I) (2015)</item>
+        <item>Crazy, Stupid, Love. (2011)</item>
+        <item>Kabhi Khushi Kabhie Gham... (2001)</item>
+        <item>Keith (I) (2008)</item>
+        <item>Les Misérables (1998)</item>
+        <item>Open Range (2003)</item>
+        <item>The Bridges of Madison County (1995)</item>
+        <item>Biutiful (2010)</item>
+        <item>Frida (2002)</item>
+        <item>The Next Three Days (2010)</item>
+        <item>Excalibur (1981)</item>
+        <item>Grosse Pointe Blank (1997)</item>
+        <item>Jane Eyre (2011)</item>
+        <item>Corpse Bride (2005)</item>
+        <item>Say Anything... (1989)</item>
+        <item>Blue Valentine (2010)</item>
+        <item>Across the Universe (2007)</item>
+        <item>A Walk to Remember (2002)</item>
+        <item>Tootsie (1982)</item>
+        <item>Up in the Air (I) (2009)</item>
+        <item>Irreversible (2002) </item>
+        <item>City Island (2009) </item>
+        <item>Far from Heaven (2002)</item>
+        <item>Notes on a Scandal (2006)</item>
+        <item>Wristcutters: A Love Story (2006) </item>
+        <item>Bound (1996)</item>
+        <item>A Room with a View (1985)</item>
+        <item>The Cider House Rules (1999)</item>
+        <item>Much Ado About Nothing (1993)</item>
+        <item>The Unbearable Lightness of Being (1988)</item>
+        <item>Witness (1985) </item>
+        <item>Frances Ha (2012)</item>
+        <item> Lars and the Real Girl (2007)</item>
+        <item>The Piano Teacher (2001)</item>
+        <item>Willow (1988)</item>
+        <item> Big (1988)</item>
+        <item>Stuck in Love (2012)</item>
+        <item>Revolutionary Road (2008)</item>
+        <item>Jerry Maguire (1996)</item>
+        <item> Anomalisa (2015)</item>
+        <item> The Book of Life (2014)</item>
+        <item>The Secret Life of Walter Mitty (2013)</item>
+        <item>Little Women (1994)</item>
+        <item>The Phantom of the Opera (2004)</item>
+        <item>The Great Gatsby (2013)</item>
+        <item>Arizona Dream (1993)</item>
+        <item>Sleeping Beauty (1959)</item>
+        <item> Chasing Amy (1997)</item>
+        <item>The Bank Job (2008)</item>
+        <item>The Crying Game (1992)</item>
+        <item>Submarine (2010)</item>
+        <item> Cinderella (1950)</item>
+        <item>Memoirs of a Geisha (2005)</item>
+        <item> Punch-Drunk Love (2002)</item>
+        <item>Chocolat (2000)</item>
+        <item>The Young Victoria (2009)</item>
+        <item>The Terminal (2004)</item>
+        <item>Closer (I) (2004)</item>
+        <item>The Age of Adaline (2015)</item>
+        <item> 10 Things I Hate About You (1999)</item>
+        <item>L"auberge espagnole (2002)</item>
+        <item> Ghajini (2008)</item>
+        <item> The Science of Sleep (2006)</item>
+        <item> The Cat Returns (2002)</item>
+        <item>Paris, je t"aime (2006)</item>
+        <item>Candy (2006)</item>
+        <item>Crazy Heart (2009)</item>
+        <item>Tarzan (1999)</item>
+        <item>The Virgin Suicides (1999)</item>
+        <item>The Dreamers (2003)</item>
+        <item>Sixteen Candles (1984)</item>
+        <item>Mallrats (1995)</item>
+        <item>Love, Rosie (2014)</item>
+        <item>Grease (1978) </item>
+        <item>Pitch Perfect (2012)</item>
+        <item>Carol (2015)</item>
+        <item>It"s Kind of a Funny Story (2010)</item>
+        <item>Shakespeare in Love (1998)</item>
+        <item>Remember Me (2010)</item>
+        <item> Steel Magnolias (1989)</item>
+        <item>Forgetting Sarah Marshall (2008)</item>
+        <item>Vicky Cristina Barcelona (2008)</item>
+        <item>Hercules (1997) </item>
+        <item>Definitely, Maybe (2008)</item>
+        <item> Beginners (2010)</item>
+        <item>Whatever Works (2009)</item>
+        <item>Agora (2009)</item>
+        <item>Ruby Sparks (2012)</item>
+        <item>Beautiful Girls (1996)</item>
+        <item>Benny and Joon (1993) </item>
+        <item>Sex and Lucia (2001)</item>
+        <item>Cashback (2006)</item>
+        <item> Better Off Dead... (1985)</item>
+        <item>The Age of Innocence (1993)</item>
+        <item>Broken Embraces (2009)</item>
+        <item>Muriel"s Wedding (1994)</item>
+        <item>The Sessions (2012)</item>
+        <item>Now Is Good (2012) </item>
+        <item>Nowhere Boy (2009)</item>
+        <item>Silverado (1985)</item>
+        <item>The Seven Year Itch (1955)</item>
+        <item>Out of Africa (1985)</item>
+        <item>Broken Flowers (2005)</item>
+        <item> Secretary (2002)</item>
+        <item>I Love You, Man (2009)</item>
+        <item>Easy A (2010)</item>
+        <item>The Longest Ride (2015)</item>
+        <item> Enchanted (2007) </item>
+        <item> The Woodsman (2004) </item>
+        <item>Adam (I) (2009) </item>
+        <item>If Only (2004) </item>
+        <item>The Adjustment Bureau (2011)</item>
+        <item> Far from the Madding Crowd (2015)</item>
+        <item> About a Boy (2002)</item>
+        <item>Meet Joe Black (1998)</item>
+        <item> There"s Something About Mary (1998)</item>
+        <item>Last Tango in Paris (1972)</item>
+        <item>The 40-Year-Old Virgin (2005)</item>
+        <item>The Spectacular Now (2013)</item>
+        <item>P.S. I Love You (2007)</item>
+        <item> The Kids Are All Right (2010)</item>
+        <item>Becoming Jane (2007)</item>
+        <item> The Words (2012)</item>
+        <item> Moonstruck (1987)</item>
+        <item>Monster"s Ball (2001)</item>
+        <item>Perfect Sense (2011) </item>
+        <item>The Time Traveler"s Wife (2009)</item>
+        <item>Four Weddings and a Funeral (1994)</item>
+        <item>The Princess and the Frog (2009)</item>
+        <item> Mighty Aphrodite (1995)</item>
+        <item> Two Lovers (2008)</item>
+        <item>Kinsey (2004)</item>
+        <item> Enough Said (2013)</item>
+        <item> Bull Durham (1988)</item>
+        <item>Away We Go (2009)</item>
+        <item>No Way Out (1987)</item>
+        <item>Waitress (2007)</item>
+        <item>Confessions of a Dangerous Mind (2002) </item>
+        <item>Rab Ne Bana Di Jodi</item>
+    </string-array>
+
+</resources>

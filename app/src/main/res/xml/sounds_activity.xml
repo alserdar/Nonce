@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- A 'parent' preference, which enables/disables child preferences (below)
+         when checked/unchecked. -->
+
+    <PreferenceCategory android:title="Tones" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="mute_sound"
+        android:title="@string/enableSound"
+        android:summaryOn="@string/enabled"
+        android:summaryOff="@string/disabled" />
+
+    <!-- Allows the user to choose a ringtone in the 'notification' category. -->
+    <!-- NOTE: This preference will be enabled only when the checkbox above is checked. -->
+    <!-- NOTE: RingtonePreference's summary should be set to its value by the activity code. -->
+
+    <ListPreference
+        android:title="@string/toneVolume"
+        android:entries="@array/tone_level_entries"
+        android:entryValues="@array/tone_level_values"
+        android:key="tone_level"
+        android:dependency="mute_sound"
+        android:defaultValue="@string/tone_level" />
+
+    <RingtonePreference
+        android:defaultValue="content://settings/system/alarm_alert"
+        android:key="ringtone"
+        android:ringtoneType="alarm"
+        android:title="@string/alarmRingtone"
+        android:dependency="mute_sound"
+        android:showSilent="false"
+        android:showDefault="true"
+        />
+
+    <RingtonePreference
+        android:defaultValue="content://settings/system/notification_sound"
+        android:dependency="mute_sound"
+        android:key="notification"
+        android:ringtoneType="notification"
+        android:title="@string/notificationTone"
+        android:showSilent="false"
+        android:showDefault="true"
+        />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="vibrate"
+        android:title="@string/vibration"
+        android:summaryOn="@string/enabled"
+        android:summaryOff="@string/disabled"/>
+
+</PreferenceScreen>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Contact Us"/>
+
+
+    <Preference
+        android:key="email_inventor"
+        android:title="@string/email"
+        android:selectable="true"
+        android:defaultValue="true"
+        android:enabled="true"
+        android:icon="@mipmap/mail"/>
+
+    <Preference
+        android:selectable="true"
+        android:title="@string/twitter"
+        android:defaultValue="true"
+        android:key="twitter_inventor"
+        android:enabled="true"
+        android:icon="@mipmap/twitter">
+
+    </Preference>
+
+
+    <Preference
+        android:key="facebook_inventor"
+        android:title="@string/facebook"
+        android:selectable="true"
+        android:defaultValue="true"
+        android:enabled="true"
+        android:icon="@mipmap/facebook"/>
+
+
+</PreferenceScreen>

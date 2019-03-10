@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Mystery">
+
+        <item>Vertigo (1958)</item>
+        <item>Oldboy (2003)</item>
+        <item>Vishwaroopam (2013)</item>
+        <item>1 - Nenokkadine (2014)</item>
+        <item>Rear Window (1954)</item>
+        <item>Psycho (1960)</item>
+        <item>Memento (2000)</item>
+        <item>The Green Mile (1999)</item>
+        <item>Drishyam (2015)</item>
+        <item>The Usual Suspects (1995)</item>
+        <item>The Thing (1982)</item>
+        <item>The Big Lebowski (1998)</item>
+        <item>Rashomon (1950)</item>
+        <item>The Third Man (1949)</item>
+        <item>L.A. Confidential (1997)</item>
+        <item>2001: A Space Odyssey (1968)</item>
+        <item>A Wednesday (2008)</item>
+        <item> Witness for the Prosecution (1957)</item>
+        <item>Double Indemnity (1944)</item>
+        <item>North by Northwest (1959)</item>
+        <item>A Separation (2011)</item>
+        <item>The Maltese Falcon (1941)</item>
+        <item>Infernal Affairs (2002)</item>
+        <item>Memories of Murder (2003)</item>
+        <item>Solaris (1972)</item>
+        <item>The Bourne Ultimatum (2007)</item>
+        <item>The Sixth Sense (1999)</item>
+        <item>Shutter Island (2010)</item>
+        <item>Prisoners (2013)</item>
+        <item> Harry Potter and the Deathly Hallows: Part 2 (2011)</item>
+        <item>Kahaani (2012)</item>
+        <item>The Secret in Their Eyes (2009)</item>
+        <item>Chinatown (1974)</item>
+        <item> Night of the Living Dead (1968)</item>
+        <item>In the Heat of the Night (1967)</item>
+        <item>Mystic River (2003)</item>
+        <item>Sleuth (1972)</item>
+        <item>The Cabinet of Dr. Caligari (1920)</item>
+        <item>Harry Potter and the Prisoner of Azkaban (2004)</item>
+        <item>The Double Life of Veronique (1991)</item>
+        <item>Batman: Mask of the Phantasm (1993)</item>
+        <item>The Conversation (1974)</item>
+        <item>The Bourne Identity (2002)</item>
+        <item>The Lady Vanishes (1938)</item>
+        <item>The Return (2003)</item>
+        <item>Three Colors: Blue (1993)</item>
+        <item>Talk to Her (2002)</item>
+        <item>The Girl with the Dragon Tattoo (2011)</item>
+        <item>The White Ribbon (2009)</item>
+        <item>Mississippi Burning (1988)</item>
+        <item>The Name of the Rose (1986)</item>
+        <item>Glengarry Glen Ross (1992)</item>
+        <item>Lucky Number Slevin (2006)</item>
+        <item>Changeling (2008)</item>
+        <item>The Best Offer (2013)</item>
+        <item>The Fugitive (1993)</item>
+        <item>The Girl with the Dragon Tattoo (2009)</item>
+        <item>The Bourne Supremacy (2004)</item>
+        <item>The Game (1997)	</item>
+        <item>Blue Velvet (1986)</item>
+        <item>Minority Report (2002)</item>
+        <item>Zodiac (2007)</item>
+        <item>Gone Baby Gone (2007)</item>
+        <item>Harry Potter and the Deathly Hallows: Part 1 (2010)</item>
+        <item>Harry Potter and the Goblet of Fire (2005)</item>
+        <item>Ex Machina (2015)</item>
+        <item>The 39 Steps (1935)</item>
+        <item>The Vanishing (1988)</item>
+        <item>Mother (2009)</item>
+        <item>The Illusionist (2006)</item>
+        <item>Sherlock Holmes (2009)</item>
+        <item>The Hunger Games: Catching Fire (2013)</item>
+        <item>Sicario (2015)</item>
+        <item>The Barbarian Invasions (2003)</item>
+        <item>The Red Violin (1998)</item>
+        <item>Blow-Up (1966)</item>
+        <item>Primal Fear (1996)</item>
+        <item>We Need to Talk About Kevin (2011)</item>
+        <item>Harry Potter and the Half-Blood Prince (2009)</item>
+        <item>Harry Potter and the Order of the Phoenix (2007)</item>
+        <item>Picnic at Hanging Rock (1975)</item>
+        <item>High Plains Drifter (1973)</item>
+        <item>Lost Highway (1997)</item>
+        <item>The Wicker Man (1973)</item>
+        <item>Kiss Kiss Bang Bang (2005)</item>
+        <item>Inside Man (2006)</item>
+        <item>Three Days of the Condor (1975)</item>
+        <item>Bad Education (2004)</item>
+        <item>The Orphanage (2007)</item>
+        <item>To Catch a Thief (1955)</item>
+        <item>Doubt (I) (2008)</item>
+        <item>Sherlock Holmes: A Game of Shadows (2011)</item>
+        <item>Hugo (2011)</item>
+        <item>The Devil"s Advocate (1997)</item>
+        <item>Source Code (2011)	</item>
+        <item>K-PAX (2001)</item>
+        <item>Thesis (1996)</item>
+        <item>Murder on the Orient Express (1974)</item>
+        <item>Angel Heart (1987)</item>
+        <item>Gosford Park (2001)</item>
+        <item>Enemy of the State (1998)</item>
+        <item>Cube (1997)</item>
+        <item>Identity (2003)</item>
+        <item>Eyes Wide Shut (1999)</item>
+        <item>Now You See Me (I) (2013)</item>
+        <item>10 Cloverfield Lane (2016)</item>
+        <item> Manhattan Murder Mystery (1993)</item>
+        <item>Manhunter (1986)</item>
+        <item>Unbreakable (2000)</item>
+        <item>Insomnia (2002)</item>
+        <item>Scream (1996)</item>
+        <item>Shooter (I) (2007)</item>
+        <item>Talaash (2012)</item>
+        <item>Ghajini (2008)</item>
+        <item>Caché (2005)</item>
+        <item>Videodrome (1983)</item>
+        <item>Nothing But the Truth (I) (2008)</item>
+        <item>Marnie (1964)</item>
+        <item>Magnum Force (1973)</item>
+        <item>The Girl Who Played with Fire (2009)</item>
+        <item>Audition (1999)</item>
+        <item> The Ghost Writer (2010)</item>
+        <item>In the Mouth of Madness (1994)</item>
+        <item>9 (I) (2009)</item>
+        <item>The Jacket (2005)</item>
+        <item>Super Troopers (2001)</item>
+        <item>The Drop (2014)</item>
+        <item>Tinker Tailor Soldier Spy (2011)</item>
+        <item>The Gift (VI) (2015)</item>
+        <item>I, Robot (2004)</item>
+        <item> Narc (2002)</item>
+        <item>The Trouble with Harry (1955)</item>
+        <item>The Salton Sea (2002)</item>
+        <item>State of Play (2009)</item>
+        <item>Non-Stop (2014)</item>
+        <item>Orphan (2009)</item>
+        <item>The Cabin in the Woods (2012)</item>
+        <item>Oblivion (I) (2013)</item>
+        <item>Jack Reacher (2012)</item>
+        <item> Prometheus (I) (2012)</item>
+        <item>Shutter (II) (2004)</item>
+        <item>Sneakers (1992)</item>
+        <item>The Words (2012)</item>
+        <item>Disturbia (2007)</item>
+        <item>Triangle (2009)</item>
+        <item>Vanilla Sky (2001)</item>
+        <item>Basic Instinct (1992)</item>
+        <item>It Follows (2014)</item>
+        <item>Enemy (2013)</item>
+        <item>Stir of Echoes (1999)</item>
+        <item>Wicker Park (2004)</item>
+        <item>Inland Empire (2006)</item>
+        <item>Fallen (1998)</item>
+        <item>Trance (I) (2013)</item>
+        <item>Buried (2010)</item>
+        <item>Breakdown (I) (1997)</item>
+        <item>Martha Marcy May Marlene (2011)</item>
+        <item>Stay (I) (2005)</item>
+        <item>Fletch (1985)</item>
+        <item>48 Hrs. (1982)</item>
+        <item>Presumed Innocent (1990)</item>
+        <item>Hearts in Atlantis (2001)</item>
+        <item>Exam (2009)</item>
+        <item>Extremely Loud and Incredibly Close (2011)</item>
+        <item>Unknown (I) (2011)</item>
+        <item>Four Brothers (2005)</item>
+        <item>Mr. Holmes (2015)</item>
+        <item>National Treasure (2004)</item>
+        <item>Veronica Mars (2014)</item>
+        <item>The Firm (1993)</item>
+        <item>The Witches (1990)</item>
+        <item>From Hell (2001)</item>
+        <item>Sinister (I) (2012)</item>
+        <item>Safe House (2012)</item>
+        <item>The Imaginarium of Doctor Parnassus (2009)</item>
+        <item>The Maze Runner (2014)</item>
+        <item>The Crimson Rivers (2000)</item>
+        <item>The Rescuers Down Under (1990)	</item>
+        <item>Frantic (1988)</item>
+        <item>Inherent Vice (2014)</item>
+        <item>Divergent (2014)</item>
+        <item>The Girl on the Train (2016)</item>
+        <item>The Curse of the Jade Scorpion (2001)</item>
+        <item>Spider (2002)</item>
+        <item>Sea of Love (1989)</item>
+        <item>The Pledge (I) (2001)</item>
+        <item>Proof (2005)</item>
+        <item>Swimming Pool (2003)</item>
+        <item>High Tension (2003)</item>
+        <item>2010: The Year We Make Contact (1984)</item>
+        <item>Conspiracy Theory (1997)</item>
+        <item>The Client (1994)</item>
+        <item>Backdraft (1991)</item>
+        <item> Scoop (2006)</item>
+        <item>The Ninth Gate (1999)</item>
+        <item>The Bone Collector (1999)</item>
+        <item>The Long Kiss Goodnight (1996)</item>
+        <item>The Gift (2000)</item>
+        <item>Escape Plan (2013)</item>
+        <item>The Bourne Legacy (2012)</item>
+        <item>Angels and Demons (2009)</item>
+        <item>Secret Window (2004)</item>
+        <item>Joy Ride (2001)</item>
+        <item>Vantage Point (2008)</item>
+        <item>Hostage (2005)</item>
+        <item>The Recruit (2003)</item>
+        <item>What Lies Beneath (2000)</item>
+        <item>Eagle Eye (2008)</item>
+        <item>Silent Hill (2006)</item>
+        <item>The Da Vinci Code (2006)</item>
+        <item>Paranoid Park (2007)</item>
+        <item>Transsiberian (2008)</item>
+        <item>Wild Things (1998)</item>
+        <item>Now You See Me 2 (2016)</item>
+        <item>Spartan (2004)</item>
+        <item>True Crime (1999)</item>
+        <item>Copycat (1995)	</item>
+        <item>Midnight in the Garden of Good and Evil (1997)</item>
+        <item> Edge of Darkness (2010)</item>
+        <item>Kiss the Girls (1997)</item>
+        <item>8MM (1999)</item>
+        <item>Red Eye (2005)</item>
+        <item>Revolver (2005)</item>
+        <item>The Pelican Brief (1993)</item>
+        <item>A Perfect Getaway (2009)</item>
+        <item>Europa Report (2013)</item>
+        <item>National Treasure: Book of Secrets (2007)</item>
+        <item>Friday the 13th (1980)</item>
+        <item> The Skeleton Key (2005)</item>
+        <item>A Walk Among the Tombstones (2014)	</item>
+        <item>The Hangover Part II (2011)</item>
+        <item>Sleuth (2007)</item>
+        <item>Unknown (2006)</item>
+        <item>The International (I) (2009)</item>
+        <item>Basic (2003)</item>
+        <item>Hollywoodland (2006)</item>
+        <item>Awake (2007)	</item>
+
+    </string-array>
+
+</resources>

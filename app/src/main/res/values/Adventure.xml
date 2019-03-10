@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Adventure">
+        <item>Back to the Future (1985)</item>
+        <item>Spirited Away (2001)</item>
+        <item>The Lord of the Rings: The Two Towers (2002)</item>
+        <item> The Message (1976)</item>
+        <item>Baahubali: The Beginning (2015)	</item>
+        <item>WALL·E (2008)</item>
+        <item>Princess Mononoke (1997)</item>
+        <item>Vishwaroopam (2013)</item>
+        <item>Sholay (1975)</item>
+        <item>Raiders of the Lost Ark (1981)</item>
+        <item>Once Upon a Time in India (2001)</item>
+        <item>Howl"s Moving Castle (2004)</item>
+        <item>Song of the Sea (2014)</item>
+        <item>The Treasure of the Sierra Madre (1948)</item>
+        <item>Monty Python and the Holy Grail (1975)</item>
+        <item>Indiana Jones and the Last Crusade (1989)</item>
+        <item>Pirates of the Caribbean: The Curse of the Black Pearl (2003)</item>
+        <item>The Wizard of Oz (1939)</item>
+        <item>Harry Potter and the Deathly Hallows: Part 2 (2011)</item>
+        <item>Kubo and the Two Strings (2016)</item>
+        <item>The Wages of Fear (1953)</item>
+        <item>Barfi! (2012)</item>
+        <item>The Gold Rush (1925)</item>
+        <item> Casino Royale (2006)</item>
+        <item>The Martian (2015)</item>
+        <item> Nausicaä of the Valley of the Wind (1984)</item>
+        <item>Castle in the Sky (1986)</item>
+        <item> Ben-Hur (1959)</item>
+        <item>Blood Diamond (2006)</item>
+        <item>Serenity (2005)</item>
+        <item>Dances with Wolves (1990)</item>
+        <item>Big Fish (2003)</item>
+        <item>Jaws (1975)</item>
+        <item>The Hobbit: The Desolation of Smaug (2013)</item>
+        <item> Iron Man (2008)	</item>
+        <item> The Hobbit: An Unexpected Journey (2012)</item>
+        <item>Edge of Tomorrow (2014)</item>
+        <item>Fantastic Beasts and Where to Find Them (2016)</item>
+        <item>The Man Who Would Be King (1975)</item>
+        <item>Stagecoach (1939)</item>
+        <item>Kiki"s Delivery Service (1989)</item>
+        <item>The Right Stuff (1983)</item>
+        <item>The Ten Commandments (1956)</item>
+        <item> Spartacus (1960)</item>
+        <item> Hero (2002)</item>
+        <item>Crouching Tiger, Hidden Dragon (2000)</item>
+        <item>The Goonies (1985)</item>
+        <item>O Brother, Where Art Thou? (2000)</item>
+        <item>G.O.R.A. (2004)</item>
+        <item>Ninja Scroll (1993)</item>
+        <item>Fantastic Mr. Fox (2009)</item>
+        <item>Back to the Future Part II (1989)</item>
+        <item>The Little Prince (I) (2015)</item>
+        <item>Moonrise Kingdom (2012)</item>
+        <item>Cast Away (2000)</item>
+        <item>True Grit (2010)</item>
+        <item>Harry Potter and the Goblet of Fire (2005)</item>
+        <item>Porco Rosso (1992)</item>
+        <item>The Girl Who Leapt Through Time (2006)</item>
+        <item>Nebraska (2013)</item>
+        <item>Paprika (2006)</item>
+        <item>Battle Royale (2000)</item>
+        <item>Ponyo (2008)</item>
+        <item>Who Framed Roger Rabbit (1988)</item>
+        <item>Fear and Loathing in Las Vegas (1998)</item>
+        <item>Deliverance (1972)</item>
+        <item>3:10 to Yuma (2007)</item>
+        <item>Apollo 13 (1995)</item>
+        <item>The Muppet Movie (1979)</item>
+        <item>Watership Down (1978)</item>
+        <item>The Secret World of Arrietty (2010)</item>
+        <item>13 Assassins (2010)</item>
+        <item>Die Hard with a Vengeance (1995)</item>
+        <item> Mad Max 2: The Road Warrior (1981)</item>
+        <item>127 Hours (2010)</item>
+        <item>The Jungle Book (1967)</item>
+        <item> Hugo (2011)</item>
+        <item>Harry Potter and the Sorcerer"s Stone (2001)</item>
+        <item>Sin Nombre (2009)</item>
+        <item>Little Big Man (1970)</item>
+        <item>The Big Blue (1988)</item>
+        <item>National Lampoon"s Vacation (1983)	</item>
+        <item>The NeverEnding Story (1984)</item>
+        <item>The Hobbit: The Battle of the Five Armies (2014)</item>
+        <item>Mission: Impossible - Rogue Nation (2015)</item>
+        <item>Ant-Man (2015)	</item>
+        <item>Harry Potter and the Chamber of Secrets (2002)</item>
+        <item>Three Burials (2005)</item>
+        <item>From Russia with Love (1963)</item>
+        <item>The Mission (1986)</item>
+        <item>Alice in Wonderland (1951)</item>
+        <item>Easy Rider (1969)</item>
+        <item>Dogma (1999)</item>
+        <item>Master and Commander: The Far Side of the World (2003)</item>
+        <item>Thelma and Louise (1991)</item>
+        <item>The Rock (1996)</item>
+        <item>Labyrinth (1986)</item>
+        <item>The Road (I) (2009)</item>
+        <item>Pirates of the Caribbean: Dead Man"s Chest (2006)</item>
+        <item> The Book of Life (2014)</item>
+        <item>Rise of the Guardians (2012)</item>
+        <item> Red Cliff (2008)</item>
+        <item> The Secret Life of Walter Mitty (2013)</item>
+        <item>Dr. No (1962)</item>
+        <item>The Way Back (I) (2010)</item>
+        <item>Big Trouble in Little China (1986)</item>
+        <item>Spider-Man 2 (2004)</item>
+        <item>The Good, the Bad, the Weird (2008)</item>
+        <item>The Transformers: The Movie (1986)</item>
+        <item>The Cat Returns (2002)</item>
+        <item>Eight Below (2006)</item>
+        <item>The Fox and the Hound (1981)</item>
+        <item>Lady and the Tramp (1955)</item>
+        <item>The Land Before Time (1988)</item>
+        <item>Peter Pan (1953)</item>
+        <item>Lilo and Stitch (2002)</item>
+        <item>The Dark Crystal (1982)</item>
+        <item>Live Free or Die Hard (2007)</item>
+        <item>Speed (1994)</item>
+        <item>Starship Troopers (1997)</item>
+        <item>GoldenEye (1995)</item>
+        <item> Highlander (1986)</item>
+        <item>Iron Man 3 (2013)</item>
+        <item>Brave (2012)</item>
+        <item> Agora (2009)</item>
+        <item>Star Trek VI: The Undiscovered Country (1991)</item>
+        <item>101 Dalmatians (1961)</item>
+        <item>Rango (2011)</item>
+        <item>Everybody"s Fine (2009)</item>
+        <item>The Physician (2013)</item>
+        <item>The Darjeeling Limited (2007)</item>
+        <item>The Kings of Summer (2013)</item>
+        <item>Hercules (1997)</item>
+        <item>Bridge to Terabithia (2007)</item>
+        <item>Transformers (2007)</item>
+        <item>The AristoCats (1970)</item>
+        <item>Man of Steel (2013)</item>
+        <item>Swiss Army Man (2016)</item>
+        <item>The Magnificent Seven (2016)</item>
+        <item>Warcraft: The Beginning (2016)</item>
+        <item>The Adventures of Baron Munchausen (1988)</item>
+        <item>The Sword in the Stone (1963)</item>
+        <item>Kon-Tiki (2012)</item>
+        <item>The Muppets (2011)</item>
+        <item>Arthur Christmas (2011)</item>
+        <item>The Peanuts Movie (2015)</item>
+        <item>Holes (2003)</item>
+        <item>Spaceballs (1987)</item>
+        <item>A.I. Artificial Intelligence (2001)</item>
+        <item>Pirates of the Caribbean: At World"s End (2007)</item>
+        <item>Maleficent (2014)</item>
+        <item>Jurassic World (2015)</item>
+        <item>Miss Peregrine"s Home for Peculiar Children (2016)</item>
+        <item>Balto (1995)</item>
+        <item>The Poseidon Adventure (1972)</item>
+        <item>The 100 Year-Old Man Who Climbed Out the Window and Disappeared (2013)</item>
+        <item>The Spy Who Loved Me (1977)</item>
+        <item>Harold and Kumar Go to White Castle (2004)</item>
+        <item>Treasure Planet (2002)</item>
+        <item>Tommy Boy (1995)</item>
+        <item> Paul (2011)</item>
+        <item>Iron Man 2 (2010)</item>
+        <item>Mad Max (1979)</item>
+        <item>Oblivion (I) (2013)</item>
+        <item>The Mummy (1999)</item>
+        <item>The Amazing Spider-Man (2012)</item>
+        <item>Pacific Rim (2013)</item>
+        <item>World War Z (2013)</item>
+        <item>Prometheus (I) (2012)</item>
+    </string-array>
+
+</resources>

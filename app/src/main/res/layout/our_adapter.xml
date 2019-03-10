@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/white">
+
+
+        <android.support.design.internal.ForegroundLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="2.5"
+            android:id="@+id/adapterLayout"
+            android:background="?attr/selectableItemBackground">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".25"/>
+            <TextView
+                android:id="@+id/eventName"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="@string/alarmnameforadapter"
+                android:textSize="20sp"
+                android:layout_weight=".5"
+                android:textColor="@android:color/white"
+                android:gravity="center"/>
+
+            <android.support.design.internal.ForegroundLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:orientation="horizontal"
+                android:layout_weight=".5"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:id="@+id/firstContainer">
+
+                <TextView
+                    android:id="@+id/alarm_item_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="@string/timeforadapter"
+                    android:textColor="@android:color/white"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/am_pmForAdapter"
+                    android:id="@+id/AM_PM"
+                    android:textSize="18sp"
+                    android:layout_margin="5dp"
+                    android:textColor="@android:color/white" />
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="5dp"
+                    android:id="@+id/sunOrMoon" />
+
+                <TextView
+                    android:id="@+id/extraInfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxLength="20"
+                    android:gravity="end"
+                    android:textSize="17sp"
+                    android:textColor="@color/white"/>
+            </android.support.design.internal.ForegroundLinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="@string/dateforadapter"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:id="@+id/theDate"
+                android:gravity="center"
+                android:layout_weight="1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".25" />
+
+
+        </android.support.design.internal.ForegroundLinearLayout>
+</FrameLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="Settings"
+        android:icon="@mipmap/settings_2"/>
+
+
+    <CheckBoxPreference
+        android:title="Bluer mode"
+        android:defaultValue="false"
+        android:key="bluer_mode"
+        android:summaryOn="Enabled"
+        android:summaryOff="Disabled"/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="notifications_new_message_vibrate"
+        android:title="Vibrate"
+        android:summaryOn="Enabled"
+        android:summaryOff="Disabled"/>
+
+
+</PreferenceScreen>
